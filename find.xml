@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\PathTest.java [Lab 8]'" />
-    <option name="defaultScopeName" value="File '...\src\PathTest.java [Lab 8]'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\PathTest.java [Lab 8]'" />
+    <option name="customScope" value="File '...\src\MyCITS2200Project.java [CITS2200 Project 2019]'" />
+    <option name="defaultScopeName" value="File '...\src\MyCITS2200Project.java [CITS2200 Project 2019]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\MyCITS2200Project.java [CITS2200 Project 2019]'" />
   </component>
 </application>
