@@ -33,11 +33,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImp.java" timestamp="1557493586995">
-        <mark key="[" line="29" column="77" />
-        <mark key="]" line="29" column="98" />
-        <mark key="." line="29" column="98" />
-        <mark key="^" line="29" column="98" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImp.java" timestamp="1557495913560">
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="58" column="27" />
+        <mark key="." line="58" column="27" />
+        <mark key="^" line="58" column="27" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 6/src/SearchImp.java" timestamp="1555578122813">
         <mark key="[" line="49" column="50" />
@@ -76,10 +76,6 @@
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/BinaryTree.class" timestamp="1554776508348">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="48" />
-      </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 7/src/PQueueLinked.java" timestamp="1555692868747">
-        <mark key="[" line="6" column="14" />
-        <mark key="^" line="38" column="74" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 7/src/PriorityQueueLinked.java" timestamp="1556885415461">
         <mark key="'" line="128" column="0" />
@@ -221,6 +217,7 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="45" />
       </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImpSampleSolution.java" timestamp="1557494189903" />
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 6/src/SearchImp.java" timestamp="1555689723404">
         <mark key="'" line="13" column="6" />
         <mark key="[" line="113" column="0" />
@@ -303,10 +300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>edgeMatrix</text>
+        <text>weight</text>
       </register>
       <register name="-" type="4">
-        <text>edgeMatrix</text>
+        <text>weight</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
@@ -318,28 +315,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIFNvcnRCeUtleSBpbXBsZW1lbnRzIENvbXBhcmF0b3I8SW50ZWdlcj4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZShJbnRlZ2VyIG8xLCBJbnRlZ2VyIG8yKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgdmVydGV4IGhhcyBub3QgYmVlbiBhZGRlZCB0byB0aGUgbWluU1QsIGV4ZWN1dGUgdGhlIHdoaWxlIGxvb3AuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIGVkZ2VNYXRyaXggPSBnLmdldEVkZ2VNYXRyaXgoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNsYXNzIFNvcnRCeUtleSBpbXBsZW1lbnRzIENvbXBhcmF0b3I8SW50ZWdlcj4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZShJbnRlZ2VyIG8xLCBJbnRlZ2VyIG8yKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIHdlaWdodHMgPSBuZXcgaW50W11bXQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXVtdIGVkZ2VNYXRyaXggPSBnLmdldEVkZ2VNYXRyaXgoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0ZXhQcmlvcml0eVF1ZXVlLmFkZCgwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlbMF0gPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXVtdIHdlaWdodHMgPSBuZXcgaW50W11bXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBrZXkgPSBuZXcgaW50W3ZlcnRleENvdW50XTsKICAgICAgICBmb3IgKGludCBrZXlWYWx1ZSA6IGtleSkgewogICAgICAgICAgICBrZXlWYWx1ZSA9IEludGVnZXIuTUFYX1ZBTFVFOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0ZXhQcmlvcml0eVF1ZXVlLmFkZCgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlbMF0gPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
