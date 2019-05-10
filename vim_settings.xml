@@ -40,11 +40,11 @@
         <mark key="." line="50" column="19" />
         <mark key="^" line="50" column="19" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImp.java" timestamp="1557374508223">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="54" />
-        <mark key="." line="23" column="54" />
-        <mark key="^" line="23" column="54" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImp.java" timestamp="1557468312677">
+        <mark key="[" line="23" column="71" />
+        <mark key="]" line="23" column="91" />
+        <mark key="." line="23" column="91" />
+        <mark key="^" line="23" column="91" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/Lock.java" timestamp="1552872055196">
         <mark key="[" line="1" column="0" />
@@ -142,11 +142,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/ListLinked.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBQYXRoVGVzdCB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
