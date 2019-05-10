@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1557365687477">
+      <file name="/Dummy.txt" timestamp="1557473272885">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Iterator.class" timestamp="1554777049066">
         <mark key="[" line="6" column="0" />
@@ -40,11 +42,11 @@
         <mark key="." line="50" column="19" />
         <mark key="^" line="50" column="19" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImp.java" timestamp="1557470117525">
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="30" column="66" />
-        <mark key="." line="30" column="66" />
-        <mark key="^" line="30" column="66" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImp.java" timestamp="1557474235125">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+        <mark key="^" line="37" column="50" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/Lock.java" timestamp="1552872055196">
         <mark key="[" line="1" column="0" />
@@ -142,11 +144,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/ListLinked.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQcmkKICAgICAgICBDSVRTMjIwMC5Qcmlvcml0eVF1ZXVlPEludGVnZXI+IHZlcnRleFByaW9yaXR5UXVldWU9IG5ldyBQcmlvcml0eVF1ZXVlPEludGVnZXI+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gaXNFbXB0eSgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGVucXVldWUoSW50ZWdlciBpbnRlZ2VyLCBpbnQgaSkgdGhyb3dzIElsbGVnYWxWYWx1ZSB7CgogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIEludGVnZXIgZXhhbWluZSgpIHRocm93cyBVbmRlcmZsb3cgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgSW50ZWdlciBkZXF1ZXVlKCkgdGhyb3dzIFVuZGVyZmxvdyB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBJdGVyYXRvciBpdGVyYXRvcigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PriorityQueue(g.getNumberOfVertices());</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
@@ -155,31 +157,33 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjZW50ZXJzOwogICAgICAgIHJldHVybiBjZW50ZXJzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmkKICAgICAgICBDSVRTMjIwMC5Qcmlvcml0eVF1ZXVlPEludGVnZXI+IHZlcnRleFByaW9yaXR5UXVldWU9IG5ldyBQcmlvcml0eVF1ZXVlPEludGVnZXI+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gaXNFbXB0eSgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGVucXVldWUoSW50ZWdlciBpbnRlZ2VyLCBpbnQgaSkgdGhyb3dzIElsbGVnYWxWYWx1ZSB7CgogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIEludGVnZXIgZXhhbWluZSgpIHRocm93cyBVbmRlcmZsb3cgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgSW50ZWdlciBkZXF1ZXVlKCkgdGhyb3dzIFVuZGVyZmxvdyB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBJdGVyYXRvciBpdGVyYXRvcigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGlzRW1wdHkoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBlbnF1ZXVlKEludGVnZXIgaW50ZWdlciwgaW50IGkpIHRocm93cyBJbGxlZ2FsVmFsdWUgewoKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBJbnRlZ2VyIGV4YW1pbmUoKSB0aHJvd3MgVW5kZXJmbG93IHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIEludGVnZXIgZGVxdWV1ZSgpIHRocm93cyBVbmRlcmZsb3cgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgSXRlcmF0b3IgaXRlcmF0b3IoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgaXRlcmF0ZToKICAgICAgICAgICAgICkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IENJVFMyMjAwLlBhdGg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBQYXRoVGVzdCB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IENJVFMyMjAwLkdyYXBoOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CkJlZm9yZTogcmV0dXJuIGN1cnJMaW5rLmVsZW1lbnQKTm93OiByZXR1cm4gY3Vyckxpbmsuc3VjY2Vzc29yLmVsZW1lbnQ=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQcmlvcml0eVF1ZXVlPD4K</text>
+      <register name="6" type="4">
+        <text>Fix PriorityQueueLinkedIterator.next()
+
+CITS2200 auto-marking program: 2/2</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE15Q0lUUzIyMDBQcm9qZWN0aW9uKCkgewogICAgICAgIAogICAgfQogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlbMF0gPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaW50IDwgY2VudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
