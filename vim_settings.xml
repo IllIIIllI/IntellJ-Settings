@@ -118,11 +118,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="112" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558873773486">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Iterator.class" timestamp="1555691061060">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="22" />
@@ -216,12 +211,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558880630012">
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558881526726">
         <mark key="'" line="146" column="0" />
-        <mark key="[" line="144" column="16" />
-        <mark key="]" line="113" column="16" />
-        <mark key="." line="113" column="16" />
-        <mark key="^" line="113" column="16" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="151" column="52" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 6/src/SearchImp.java" timestamp="1555689723404">
         <mark key="'" line="13" column="6" />
@@ -305,11 +300,11 @@
       <jump line="146" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
@@ -318,31 +313,31 @@
         <text>getShortestPath(wiki.idToURL(i), wiki.idToURL(j))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzID0gZWNjZW50cmljaXRpZXNbaV07Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjZW50ZXJzID0gbmV3IFN0cmluZ1tjZW50ZXJzSUQuc2l6ZSgpXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjZW50ZXJzID0gbmV3IFN0cmluZ1t3aWtpLmdldFZlcnRDb3VudCgpXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBjZW50ZXJzSUQgPSBuZXcgaW50W3dpa2kuZ2V0VmVydENvdW50KCldOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBtaW5FY2NWZXJ0aWNlcyA9IG5ldyBpbnRbd2lraS5nZXRWZXJ0Q291bnQoKV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFkaXVzID0gZWNjZW50cmljaXRpZXNbaV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
