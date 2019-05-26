@@ -118,7 +118,7 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="112" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558864423689">
+      <file name="/Dummy.txt" timestamp="1558873773486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -145,11 +145,11 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="23" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1558863428217">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="8" />
-        <mark key="^" line="16" column="10" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1558871707929">
+        <mark key="[" line="70" column="31" />
+        <mark key="]" line="70" column="30" />
+        <mark key="." line="70" column="30" />
+        <mark key="^" line="70" column="30" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/StackBlock.java" timestamp="1554473403111">
         <mark key="'" line="55" column="34" />
@@ -216,12 +216,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558864415777">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558874194839">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="198" column="58" />
+        <mark key="]" line="199" column="56" />
+        <mark key="." line="199" column="56" />
+        <mark key="^" line="199" column="56" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 6/src/SearchImp.java" timestamp="1555689723404">
         <mark key="'" line="13" column="6" />
@@ -306,46 +306,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBBIGdldHRlciBmb3IgYWRqTGlzdC4KICAgICAgICAgKiBAcmV0dXJuCiAgICAgICAgICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE1hcA==</text>
+        <text>vertCount</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHVybEZyb21JbmRleCA9IHN0cmluZ1RvSW50ZWdlck1hcC5nZXQodXJsRnJvbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgdmVydGV4IDogc3RyaW5nVG9JbnRlZ2VyTWFwLmtleVNldCgpKSB7CiAgICAgICAgICAgICAgICBpbnQgaW5kZXggPSBzdHJpbmdUb0ludGVnZXJNYXAuZ2V0KHZlcnRleCk7CiAgICAgICAgICAgICAgICBmb3JtYXR0ZWRPdXRwdXQuYXBwZW5kKHZlcnRleCkuYXBwZW5kKCIgSUQ6ICIpLmFwcGVuZChpbmRleCkuYXBwZW5kKCIgTGlzdDogIikuYXBwZW5kKGFkakxpc3QuZ2V0KGluZGV4KSkuYXBwZW5kKCJcbiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBBIGdldHRlciBmb3IgYWRqTGlzdC4KICAgICAgICAgKiBAcmV0dXJuCiAgICAgICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyB2ZXJ0ZXggOiBzdHJpbmdUb0ludGVnZXJNYXAua2V5U2V0KCkpIHsKICAgICAgICAgICAgaW50IGluZGV4ID0gc3RyaW5nVG9JbnRlZ2VyTWFwLmdldCh2ZXJ0ZXgpOwogICAgICAgICAgICBmb3JtYXR0ZWRPdXRwdXQuYXBwZW5kKHZlcnRleCkuYXBwZW5kKCIgSUQ6ICIpLmFwcGVuZChpbmRleCkuYXBwZW5kKCIgTGlzdDogIikuYXBwZW5kKGFkakxpc3QuZ2V0KGluZGV4KSkuYXBwZW5kKCJcbiIpOwogICAgICAgIH0KCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>First attempt to implement the Wikipedia graph using an adjacency list.
-
-Known issues:
-NullPointerException, for unknown reasons.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJvai5nZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuIFJldHVybnMgdHJ1ZSBpZiBhIG5ldyB2ZXJ0ZXggaGFzIGJlZW4gYWRkZWQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
