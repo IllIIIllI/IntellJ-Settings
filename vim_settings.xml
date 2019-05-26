@@ -349,7 +349,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjZW50ZXJzID0gbmV3IFN0cmluZ1tjZW50ZXJzSUQuc2l6ZSgpXTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>source ~/_ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -386,6 +386,8 @@
         <entry>set rnu</entry>
         <entry>set nu</entry>
         <entry>w</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>source ~/_ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
