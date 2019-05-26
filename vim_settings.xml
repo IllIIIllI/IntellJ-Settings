@@ -56,11 +56,11 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" timestamp="1558885552564">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" timestamp="1558890697659">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 6/src/SearchImpTest.java" timestamp="1555688339588">
         <mark key="[" line="59" column="0" />
@@ -309,11 +309,11 @@
       <jump line="146" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL1Nob3J0ZXN0X3BhdGhfcHJvYmxlbQo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>is cancer and I quite dislike it</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
@@ -322,31 +322,31 @@
         <text>getShortestPath(wiki.idToURL(i), wiki.idToURL(j))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL1Nob3J0ZXN0X3BhdGhfcHJvYmxlbQo=</text>
+        <text encoding="base64">IyMgQW5hbHlzaXM6IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhpcyBwcm9qZWN0ICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">UmVmZXJlbmNlczoK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjZW50ZXJzID0gbmV3IFN0cmluZ1tjZW50ZXJzSUQuc2l6ZSgpXTsK</text>
+        <text encoding="base64">ICAgICAqIGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL1Nob3J0ZXN0X3BhdGhfcHJvYmxlbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjZW50ZXJzID0gbmV3IFN0cmluZ1t3aWtpLmdldFZlcnRDb3VudCgpXTsK</text>
+        <text encoding="base64">VGhpcyBwcm9qZWN0ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBjZW50ZXJzSUQgPSBuZXcgaW50W3dpa2kuZ2V0VmVydENvdW50KCldOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjZW50ZXJzID0gbmV3IFN0cmluZ1tjZW50ZXJzSUQuc2l6ZSgpXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
