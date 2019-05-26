@@ -118,7 +118,7 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="112" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558863721503">
+      <file name="/Dummy.txt" timestamp="1558864423689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -216,12 +216,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558863332717">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558864415777">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 6/src/SearchImp.java" timestamp="1555689723404">
         <mark key="'" line="13" column="6" />
@@ -305,11 +305,11 @@
       <jump line="146" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QmFzZS8vIC8vIC8vIDwyMjUzMTg1OUBzdHVkZW50LnV3YS5lZHUuYXU+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QmFzZS8vIC8vIC8vIDwyMjUzMTg1OUBzdHVkZW50LnV3YS5lZHUuYXU+</text>
+        <text encoding="base64">IE1hcA==</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
@@ -317,36 +317,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IHVybEZyb21JbmRleCA9IHN0cmluZ1RvSW50ZWdlck1hcC5nZXQodXJsRnJvbSk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>First attempt to implement the Wikipedia graph using an adjacency list.
 
 Known issues:
 NullPointerException, for unknown reasons.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJvai5nZXQpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuIFJldHVybnMgdHJ1ZSBpZiBhIG5ldyB2ZXJ0ZXggaGFzIGJlZW4gYWRkZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJvai5nZXQpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>errors:
-NullPointerException, for unknown res</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBZGRzIHZlcnRpY2VzIHRvIGdyYXBoLgogICAgICAgIGFkZFZlcnRleCh1cmxGcm9tLCB2ZXJ0ZXhDb3VudCk7CiAgICAgICAgdmVydGV4Q291bnQrKzsKICAgICAgICBhZGRWZXJ0ZXgodXJsVG8sIHZlcnRleENvdW50KTsKICAgICAgICB2ZXJ0ZXhDb3VudCsrOwogICAgICAgIC8vIEFkZHMgdGhlIGVkZ2UgdG8gYWRqYWNlbmN5IGxpc3QuIEluIG90aGVyIHdvcmRzLCBjb25uZWN0cyB0aGUgdmVydGV4IHRvIGFub3RoZXIgdmVydGV4Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aWtpLnZlcnRDb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuIFJldHVybnMgdHJ1ZSBpZiBhIG5ldyB2ZXJ0ZXggaGFzIGJlZW4gYWRkZWQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
