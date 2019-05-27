@@ -20,12 +20,12 @@
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/ComboLock.java" timestamp="1552871327477">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558942619953">
-        <mark key="'" line="190" column="8" />
-        <mark key="[" line="291" column="47" />
-        <mark key="]" line="292" column="53" />
-        <mark key="." line="292" column="53" />
-        <mark key="^" line="292" column="53" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558944702735">
+        <mark key="'" line="185" column="8" />
+        <mark key="[" line="302" column="23" />
+        <mark key="]" line="302" column="36" />
+        <mark key="." line="302" column="36" />
+        <mark key="^" line="302" column="36" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/LockString.java" timestamp="1553149720780">
         <mark key="[" line="2" column="0" />
@@ -168,10 +168,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>startVertex</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>startVertex</text>
       </register>
       <register name="/" type="4">
         <text>adj</text>
@@ -180,31 +180,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdC5nZXQodXJsRnJvbUlEKS5hZGQodXJsVG9JRCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdFRyYW5zcG9zZWQuZ2V0KCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdFRyYW5zcG9zZWQuZ2V0KCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIFRoaXMgaW1wbGVtZW50YXRpb24gdXNlcyBhbgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdFRyYW5zcG9zZWQuZ2V0KCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdFRyYW5zcG9zZWQuZ2V0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAqICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXVtdIGFsbFN0ckNvbkNvbXAgPSBuZXcgU3RyaW5nW3dpa2kuZ2V0VmVydENvdW50KCldW3dpa2kuZ2V0VmVydENvdW50KCldOwo=</text>
+        <text encoding="base64">ICAgICAqIFRoaXMgaW1wbGVtZW50YXRpb24gdXNlcyBhbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBIZWxwcyBmYWNpbGl0YXRlIGEgZGVwdGggZmlyc3Qgc2VhcmNoLCB3aGljaCB3aWxsIGJlIHVzZWQgYnkgS29zYXJhanUncyBhbGdvcml0aG0uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -256,6 +256,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
