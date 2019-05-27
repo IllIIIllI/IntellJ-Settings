@@ -17,11 +17,11 @@
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/ComboLock.java" timestamp="1552871327477">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558934449993">
-        <mark key="[" line="174" column="8" />
-        <mark key="]" line="174" column="8" />
-        <mark key="^" line="174" column="26" />
-        <mark key="." line="174" column="8" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558937005558">
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="^" line="282" column="10" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/LockString.java" timestamp="1553149720780">
         <mark key="[" line="2" column="0" />
@@ -157,47 +157,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImpSampleSolution.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBIZWxwcyBmYWNpbGl0YXRlIGEgZGVwdGggZmlyc3Qgc2VhcmNoLCB3aGljaCB3aWxsIGJlIHVzZWQgYnkgS29zYXJhanUncyBhbGdvcml0aG0uCiAgICAgICAgICogQHBhcmFtIHZlcnRleAogICAgICAgICAqIEBwYXJhbSB2aXNpdGVkCiAgICAgICAgICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgRWRnZSBpbXBsZW1lbnRzIENvbXBhcmFibGU8RWRnZT4gewogICAgICAgIGludCB2ZXJ0ZXg7CiAgICAgICAgaW50IHdlaWdodDsKCiAgICAgICAgRWRnZShpbnQgdmVydGV4LCBpbnQgd2VpZ2h0KSB7CiAgICAgICAgICAgIHRoaXMudmVydGV4ID0gdmVydGV4OwogICAgICAgICAgICB0aGlzLndlaWdodCA9IHdlaWdodDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZVRvKEVkZ2UgY29tcGFyaXNvbkVkZ2UpIHsKICAgICAgICAgICAgcmV0dXJuIEludGVnZXIuY29tcGFyZSh3ZWlnaHQsIGNvbXBhcmlzb25FZGdlLndlaWdodCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBIZWxwcyBmYWNpbGl0YXRlIGEgZGVwdGggZmlyc3Qgc2VhcmNoLCB3aGljaCB3aWxsIGJlIHVzZWQgYnkgS29zYXJhanUncyBhbGdvcml0aG0uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBIZWxwcyBmYWNpbGl0YXRlIGEgZGVwdGggZmlyc3Qgc2VhcmNoLCB3aGljaCB3aWxsIGJlIHVzZWQgYnkgS29zYXJhanUncyBhbGdvcml0aG0uCiAgICAgICAgICogQHBhcmFtIHZlcnRleAogICAgICAgICAqIEBwYXJhbSB2aXNpdGVkCiAgICAgICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGpMaXN0W3N0cmluZ1RvSW50ZWdlck1hcC5nZXQodXJsRnJvbSldLmFkZChzdHJpbmdUb0ludGVnZXJNYXAuZ2V0KHVybFRvKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxJbnRlZ2VyPltdIGFkakxpc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRWZXJ0ZXgoU3RyaW5nIG5ld1VybCwgaW50IHVuaXF1ZUlEKSB7CiAgICAgICAgaWYgKCFzdHJpbmdUb0ludGVnZXJNYXAuY29udGFpbnNLZXkobmV3VXJsKSkgewogICAgICAgICAgICBzdHJpbmdUb0ludGVnZXJNYXAucHV0KG5ld1VybCwgdW5pcXVlSUQpOwogICAgICAgICAgICBpbnRlZ2VyVG9TdHJpbmdMaXN0LmFkZChuZXdVcmwpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
+        <text encoding="base64">ICAgICAgICBhZGpMaXN0W3N0cmluZ1RvSW50ZWdlck1hcC5nZXQodXJsRnJvbSldLmFkZChzdHJpbmdUb0ludGVnZXJNYXAuZ2V0KHVybFRvKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlUmVhZGVyIHIgPSBuZXcgRmlsZVJlYWRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set nu</text>
       </register>
     </registers>
     <search>
@@ -220,9 +220,9 @@
         <entry>set rn</entry>
         <entry>set nm</entry>
         <entry>sete</entry>
+        <entry>w</entry>
         <entry>set rnu</entry>
         <entry>set nu</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
