@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1558938720308">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1557480230554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -17,6 +20,12 @@
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/ComboLock.java" timestamp="1552871327477">
         <mark key="[" line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558939324901">
+        <mark key="[" line="287" column="25" />
+        <mark key="]" line="287" column="35" />
+        <mark key="^" line="287" column="35" />
+        <mark key="." line="287" column="35" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/LockString.java" timestamp="1553149720780">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -29,8 +38,8 @@
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1556772362986">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImpSampleSolution.java" timestamp="1557479815372">
         <mark key="'" line="0" column="0" />
@@ -155,10 +164,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PathImpSampleSolution from lecturers added.</text>
+        <text>vertex</text>
       </register>
       <register name="-" type="4">
-        <text>PathImpSampleSolution from lecturers added.</text>
+        <text>vertex</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
