@@ -6,10 +6,8 @@
       <file name="vim_settings.xml" timestamp="1558938720308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557480230554">
+      <file name="/Dummy.txt" timestamp="1558947514573">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Iterator.class" timestamp="1554777049066">
         <mark key="[" line="6" column="0" />
@@ -20,12 +18,12 @@
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/ComboLock.java" timestamp="1552871327477">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558944702735">
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558947466818">
         <mark key="'" line="185" column="8" />
-        <mark key="[" line="302" column="23" />
-        <mark key="]" line="302" column="36" />
-        <mark key="." line="302" column="36" />
-        <mark key="^" line="302" column="36" />
+        <mark key="[" line="145" column="50" />
+        <mark key="]" line="145" column="31" />
+        <mark key="." line="145" column="31" />
+        <mark key="^" line="145" column="31" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/LockString.java" timestamp="1553149720780">
         <mark key="[" line="2" column="0" />
@@ -71,11 +69,6 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/ListLinked.class" timestamp="1554088055380">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="112" column="1" />
-      </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathTest.java" timestamp="1557371430900">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -100,6 +93,12 @@
         <mark key="]" line="3" column="31" />
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q1Code.java" timestamp="1558945410421">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="41" />
       </file>
       <file name="/fragment.java" timestamp="1557371342889">
         <mark key="[" line="0" column="0" />
@@ -168,43 +167,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>startVertex</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>startVertex</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>adj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdC5nZXQodXJsRnJvbUlEKS5hZGQodXJsVG9JRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBBbGwgdmVydGljZXMgYXJlIGluaXRpYWxseSB1bnZpc2l0ZWQuCiAgICAgICAgYm9vbGVhbltdIHZpc2l0ZWQgPSBuZXcgYm9vbGVhblt3aWtpLmdldFZlcnRDb3VudCgpXTsKICAgICAgICBBcnJheXMuZmlsbCh2aXNpdGVkLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuW10gdmlzaXRlZCA9IG5ldyBib29sZWFuW3dpa2kuZ2V0VmVydENvdW50KCldOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBBbGwgdmVydGljZXMgYXJlIGluaXRpYWxseSB1bnZpc2l0ZWQuCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdFRyYW5zcG9zZWQuZ2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdFRyYW5zcG9zZWQuZ2V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQnkgdGhlIHRpbWUgdGhpcyBsaW5lIGlzIHJlYWNoZWQsIGFsbCB2ZXJ0aWNlcyByZWFjaGFibGUgZnJvbSB0aGUgaW5pdGlhbCBwYXJhbWV0ZXIgY3VyclZlcnQgd2lsbCBoYXZlIGJlZW4gdHJhdmVyc2VkL3Byb2Nlc3NlZC4KICAgICAgICAgICAgLy8gV2UgY2FuIG5vdyBwdXNoIGN1cnJWZXJ0IG9udG8gdGhlIHN0YWNrLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIFRoaXMgaW1wbGVtZW50YXRpb24gdXNlcyBhbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhY2sucHVzaChjdXJyVmVydCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gc3RhY2sgVGhlIHN0YWNrIGNvbnRhaW5pbmcgdGhlIHZlcnRpY2VzIHdoaWNoIGhhdmUgYmVlbiBjb21wbGV0ZWx5IHByb2Nlc3NlZC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
