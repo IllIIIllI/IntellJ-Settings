@@ -20,11 +20,12 @@
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/ComboLock.java" timestamp="1552871327477">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558939324901">
-        <mark key="[" line="287" column="25" />
-        <mark key="]" line="287" column="35" />
-        <mark key="^" line="287" column="35" />
-        <mark key="." line="287" column="35" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558942619953">
+        <mark key="'" line="190" column="8" />
+        <mark key="[" line="291" column="47" />
+        <mark key="]" line="292" column="53" />
+        <mark key="." line="292" column="53" />
+        <mark key="^" line="292" column="53" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/LockString.java" timestamp="1553149720780">
         <mark key="[" line="2" column="0" />
@@ -35,11 +36,11 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="48" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1556772362986">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1558942500544">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImpSampleSolution.java" timestamp="1557479815372">
         <mark key="'" line="0" column="0" />
@@ -161,55 +162,58 @@
       <jump line="101" column="0" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImpSampleSolution.java" />
       <jump line="100" column="0" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImpSampleSolution.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImpSampleSolution.java" />
+      <jump line="191" column="8" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="166" column="8" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="190" column="8" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vertex</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>vertex</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>rightmost</text>
+        <text>adj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjZW50ZXJzOwogICAgICAgIHJldHVybiBjZW50ZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdC5nZXQodXJsRnJvbUlEKS5hZGQodXJsVG9JRCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdFRyYW5zcG9zZWQuZ2V0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIFNvcnRCeUtleSBpbXBsZW1lbnRzIENvbXBhcmF0b3I8SW50ZWdlcj4gewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZShJbnRlZ2VyIG8xLCBJbnRlZ2VyIG8yKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRqTGlzdFRyYW5zcG9zZWQuZ2V0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIGVkZ2VNYXRyaXggPSBnLmdldEVkZ2VNYXRyaXgoKTsK</text>
+        <text encoding="base64">ICAgICAqICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIFRoaXMgaW1wbGVtZW50YXRpb24gdXNlcyBhbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIHdlaWdodHMgPSBuZXcgaW50W11bXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0ZXhQcmlvcml0eVF1ZXVlLmFkZCgwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlbMF0gPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBrZXkgPSBuZXcgaW50W3ZlcnRleENvdW50XTsKICAgICAgICBmb3IgKGludCBrZXlWYWx1ZSA6IGtleSkgewogICAgICAgICAgICBrZXlWYWx1ZSA9IEludGVnZXIuTUFYX1ZBTFVFOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXVtdIGFsbFN0ckNvbkNvbXAgPSBuZXcgU3RyaW5nW3dpa2kuZ2V0VmVydENvdW50KCldW3dpa2kuZ2V0VmVydENvdW50KCldOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKiBIZWxwcyBmYWNpbGl0YXRlIGEgZGVwdGggZmlyc3Qgc2VhcmNoLCB3aGljaCB3aWxsIGJlIHVzZWQgYnkgS29zYXJhanUncyBhbGdvcml0aG0uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rightmost</last-search>
+      <last-search>adj</last-search>
       <last-offset />
-      <last-pattern>rightmost</last-pattern>
+      <last-pattern>adj</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -221,6 +225,7 @@
         <entry>first</entry>
         <entry>last</entry>
         <entry>rightmost</entry>
+        <entry>adj</entry>
       </history-search>
       <history-cmd>
         <entry>set rn</entry>
