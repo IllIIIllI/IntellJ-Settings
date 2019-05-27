@@ -17,11 +17,11 @@
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/ComboLock.java" timestamp="1552871327477">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558937005558">
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="^" line="282" column="10" />
-        <mark key="." line="276" column="0" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558938631551">
+        <mark key="[" line="198" column="26" />
+        <mark key="]" line="199" column="11" />
+        <mark key="^" line="199" column="11" />
+        <mark key="." line="199" column="11" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/LockString.java" timestamp="1553149720780">
         <mark key="[" line="2" column="0" />
@@ -157,11 +157,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImpSampleSolution.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBIZWxwcyBmYWNpbGl0YXRlIGEgZGVwdGggZmlyc3Qgc2VhcmNoLCB3aGljaCB3aWxsIGJlIHVzZWQgYnkgS29zYXJhanUncyBhbGdvcml0aG0uCiAgICAgICAgICogQHBhcmFtIHZlcnRleAogICAgICAgICAqIEBwYXJhbSB2aXNpdGVkCiAgICAgICAgICovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gbmV3IEhhc2hNYXA8Pigp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ID0gbmV3IEhhc2hNYXA8Pigp</text>
       </register>
       <register name="/" type="4">
         <text>rightmost</text>
@@ -197,7 +197,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>set nu</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -220,9 +220,9 @@
         <entry>set rn</entry>
         <entry>set nm</entry>
         <entry>sete</entry>
-        <entry>w</entry>
         <entry>set rnu</entry>
         <entry>set nu</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
