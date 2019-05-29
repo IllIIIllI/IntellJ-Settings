@@ -124,8 +124,10 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="112" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558891661655">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1559135519552">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Iterator.class" timestamp="1555691061060">
         <mark key="[" line="8" column="0" />
@@ -150,10 +152,10 @@
         <mark key="^" line="40" column="23" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1558871707929">
-        <mark key="[" line="70" column="31" />
-        <mark key="]" line="70" column="30" />
-        <mark key="." line="70" column="30" />
-        <mark key="^" line="70" column="30" />
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/StackBlock.java" timestamp="1554473403111">
         <mark key="'" line="55" column="34" />
@@ -220,13 +222,6 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558888942517">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="88" column="65" />
-        <mark key="]" line="89" column="58" />
-        <mark key="." line="89" column="58" />
-        <mark key="^" line="89" column="58" />
-      </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 6/src/SearchImp.java" timestamp="1555689723404">
         <mark key="'" line="13" column="6" />
         <mark key="[" line="113" column="0" />
@@ -242,11 +237,6 @@
       </file>
       <file name="/fragment.java" timestamp="1557500152120">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200Project.java" timestamp="1556896116623">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Iterator.class" timestamp="1554777049066">
         <mark key="[" line="6" column="0" />
@@ -310,7 +300,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>:
+T</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -321,32 +312,41 @@
       <register name="0" type="4">
         <text>getShortestPath(wiki.idToURL(i), wiki.idToURL(j))</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyMgQW5hbHlzaXM6IAo=</text>
+      <register name="1" type="4">
+        <text>:
+T</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>ug-fixes for getCenters()
+
+getCenters:
+Fix method for detecting a disconnected graph
+
+Minor edits:
+Refactor while loop to for-each loops
+Move the location of the test graph files
+Created variant of Example_graph.txt with no disconnected vertice</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVmZXJlbmNlczoK</text>
+        <text encoding="base64">IyMgQW5hbHlzaXM6IAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL1Nob3J0ZXN0X3BhdGhfcHJvYmxlbQo=</text>
+        <text encoding="base64">UmVmZXJlbmNlczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhpcyBwcm9qZWN0ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL1Nob3J0ZXN0X3BhdGhfcHJvYmxlbQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">VGhpcyBwcm9qZWN0ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjZW50ZXJzID0gbmV3IFN0cmluZ1tjZW50ZXJzSUQuc2l6ZSgpXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/_ideavimrc</text>
