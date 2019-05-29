@@ -6,8 +6,10 @@
       <file name="vim_settings.xml" timestamp="1558938720308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558947514573">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1559115328204">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Iterator.class" timestamp="1554777049066">
         <mark key="[" line="6" column="0" />
@@ -18,12 +20,11 @@
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/ComboLock.java" timestamp="1552871327477">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1558947466818">
-        <mark key="'" line="185" column="8" />
-        <mark key="[" line="145" column="50" />
-        <mark key="]" line="145" column="31" />
-        <mark key="." line="145" column="31" />
-        <mark key="^" line="145" column="31" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559115355339">
+        <mark key="[" line="102" column="77" />
+        <mark key="]" line="103" column="7" />
+        <mark key="." line="103" column="7" />
+        <mark key="^" line="103" column="7" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/LockString.java" timestamp="1553149720780">
         <mark key="[" line="2" column="0" />
@@ -34,11 +35,14 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="48" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1558942500544">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="10" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="10" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1559111866865">
+        <mark key="[" line="68" column="76" />
+        <mark key="]" line="68" column="83" />
+        <mark key="." line="68" column="76" />
+        <mark key="^" line="59" column="66" />
+      </file>
+      <file name="/a.dummy" timestamp="1559111878358">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 8/src/PathImpSampleSolution.java" timestamp="1557479815372">
         <mark key="'" line="0" column="0" />
@@ -94,11 +98,11 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q1Code.java" timestamp="1558945410421">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="14" column="41" />
-        <mark key="^" line="14" column="41" />
+      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q1Code.java" timestamp="1559112216671">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="46" />
+        <mark key="." line="30" column="46" />
+        <mark key="^" line="30" column="46" />
       </file>
       <file name="/fragment.java" timestamp="1557371342889">
         <mark key="[" line="0" column="0" />
@@ -167,43 +171,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text encoding="base64">Ck1vdmUgdGVzdHMgZm9yIENJVFMyMjAwUHJvamVjdFRlc3Rlci5nZXRTaG9ydGVzdFBhdGhUZXN0KCksIGZvcm1lcmx5IGluIHExQ29kZS5qYXZhCkNoYW5nZSBxMUNvZGUuamF2YSB0byBzdWl0IG5ldyBtZXRob2RzIGluIE15Q0lUUzIyMDBQcm9qZWN0LmphdmEKTWlub3IgZm9ybWF0dGluZyBjaGFuZ2Vz</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>adj</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBbGwgdmVydGljZXMgYXJlIGluaXRpYWxseSB1bnZpc2l0ZWQuCiAgICAgICAgYm9vbGVhbltdIHZpc2l0ZWQgPSBuZXcgYm9vbGVhblt3aWtpLmdldFZlcnRDb3VudCgpXTsKICAgICAgICBBcnJheXMuZmlsbCh2aXNpdGVkLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXRlcmF0b3I8SW50ZWdlcj4gY3VyclZlcnRJdGVyYXRvciA9IGFkakxpc3QuZ2V0KGN1cnJWZXJ0KS5pdGVyYXRvcigpOwogICAgICAgICAgICB3aGlsZSAoY3VyclZlcnRJdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgIGludCBuZXh0VmVydCA9IGN1cnJWZXJ0SXRlcmF0b3IubmV4dCgpOwogICAgICAgICAgICAgICAgaWYgKCF2aXNpdGVkW25leHRWZXJ0XSkgewogICAgICAgICAgICAgICAgICAgIGRlcHRoRlNTdGFjayhuZXh0VmVydCwgdmlzaXRlZCwgc3RhY2spOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuW10gdmlzaXRlZCA9IG5ldyBib29sZWFuW3dpa2kuZ2V0VmVydENvdW50KCldOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ck1vdmUgdGVzdHMgZm9yIENJVFMyMjAwUHJvamVjdFRlc3Rlci5nZXRTaG9ydGVzdFBhdGhUZXN0KCksIGZvcm1lcmx5IGluIHExQ29kZS5qYXZhCkNoYW5nZSBxMUNvZGUuamF2YSB0byBzdWl0IG5ldyBtZXRob2RzIGluIE15Q0lUUzIyMDBQcm9qZWN0LmphdmEKTWlub3IgZm9ybWF0dGluZyBjaGFuZ2Vz</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBbGwgdmVydGljZXMgYXJlIGluaXRpYWxseSB1bnZpc2l0ZWQuCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">TWlub3IgZWRpdHM6CiBNb3ZlIHRlc3RzIGZvciBDSVRTMjIwMFByb2plY3RUZXN0ZXIuZ2V0U2hvcnRlc3RQYXRoVGVzdCgpLCBmb3JtZXJseSBpbiBxMUNvZGUuamF2YQogQ2hhbmdlIHExQ29kZS5qYXZhIHRvIHN1aXQgbmV3IG1ldGhvZHMgaW4gTXlDSVRTMjIwMFByb2plY3QuamF2YQogTWlub3IgZm9ybWF0dGluZyBjaGFuZ2VzCiAKIE5vdGU6IGdldFNDUCgpIGlzIHN0aWxsIG5vdCB3b3JraW5nLgogU2lnbmVkLW9mZi1ieTogSWxsSUlJbGxJLUU1ODAgPDIyNTMxODU5QHN0dWRlbnQudXdhLmVkdS5hdT4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIDxwPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgbmV4dFZlcnQgOiBhZGpMaXN0LmdldChjdXJyVmVydCkpIHsKICAgICAgICAgICAgICAgIGlmICghdmlzaXRlZFtuZXh0VmVydF0pIHsKICAgICAgICAgICAgICAgICAgICBkZXB0aEZTTm9TdGFjayhuZXh0VmVydCwgdmlzaXRlZCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXB0aEZTU3RhY2sobmV4dFZlcnQsIHZpc2l0ZWQsIHN0YWNrKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQnkgdGhlIHRpbWUgdGhpcyBsaW5lIGlzIHJlYWNoZWQsIGFsbCB2ZXJ0aWNlcyByZWFjaGFibGUgZnJvbSB0aGUgaW5pdGlhbCBwYXJhbWV0ZXIgY3VyclZlcnQgd2lsbCBoYXZlIGJlZW4gdHJhdmVyc2VkL3Byb2Nlc3NlZC4KICAgICAgICAgICAgLy8gV2UgY2FuIG5vdyBwdXNoIGN1cnJWZXJ0IG9udG8gdGhlIHN0YWNrLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhY2sucHVzaChjdXJyVmVydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChuZXh0VmVydCA6IGFkakxpc3QuZ2V0KGN1cnJWZXJ0KSkgewogICAgICAgICAgICAgICAgaWYgKCF2aXNpdGVkW25leHRWZXJ0XSkgewogICAgICAgICAgICAgICAgICAgIGRlcHRoRlNTdGFjayhuZXh0VmVydCwgdmlzaXRlZCwgc3RhY2spOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gc3RhY2sgVGhlIHN0YWNrIGNvbnRhaW5pbmcgdGhlIHZlcnRpY2VzIHdoaWNoIGhhdmUgYmVlbiBjb21wbGV0ZWx5IHByb2Nlc3NlZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
