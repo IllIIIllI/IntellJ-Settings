@@ -137,11 +137,11 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559225884381">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
-        <mark key="^" line="178" column="37" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559227985594">
+        <mark key="[" line="435" column="44" />
+        <mark key="]" line="435" column="59" />
+        <mark key="." line="435" column="59" />
+        <mark key="^" line="435" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1559124167502">
         <mark key="[" line="0" column="0" />
@@ -237,10 +237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIHNjcEFycmF5SW50ID0gbmV3IGludFt2ZXJ0Q291bnRdW3ZlcnRDb3VudF07Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNjcFN0ckJ1aWxkID0gbmV3IFN0cmluZ0J1aWxkZXIoMiAqIHZlcnRDb3VudCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>vertexStack</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
         <text>SCP</text>
@@ -249,34 +249,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJIYW1pbHRvbiBQYXRoIGlzOiAiKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGhhbVBhdGgubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgaWYgKGkgPT0gaGFtUGF0aC5sZW5ndGggLSAxKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGhhbVBhdGhbaV0gKyAiJW4iKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaGFtUGF0aFtpXSArICIgLT4gIik7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNjcFN0ckJ1aWxkID0gbmV3IFN0cmluZ0J1aWxkZXIoMiAqIHZlcnRDb3VudCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuW10gdmlzaXRlZCA9IG5ldyBib29sZWFuW3ZlcnRDb3VudF07Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcFN0ckJ1aWxkLmFwcGVuZCgiXG4iKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcFN0ckJ1aWxkLmFwcGVuZCh3aWtpLmtvczJuZChjdXJyVmVydCwgdmlzaXRlZCkpLmFwcGVuZCgiICIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGN1cnJWZXJ0Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyogICAgICAgIC8vIEEgY2hlY2sgdG8gc2VlIGlmIHRoZSBncmFwaCBpcyBkaXNjb25uZWN0ZWQuCiAgICAgICAgaWYgKHJhZGl1cyA9PSAtMSkgewogICAgICAgICAgICBTdHJpbmdbXSBkaXNjb25uZWN0ZWQgPSBuZXcgU3RyaW5nWzFdOwogICAgICAgICAgICBkaXNjb25uZWN0ZWRbMF0gPSAiTm8gY2VudGVycyBleGlzdCwgZGlzY29ubmVjdGVkIGdyYXBoLiI7CiAgICAgICAgICAgIHJldHVybiBkaXNjb25uZWN0ZWQ7CiAgICAgICAgfSovCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbnRbXVtdIHNjcEFycmF5SW50ID0gbmV3IGludFt2ZXJ0Q291bnRdW3ZlcnRDb3VudF07Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>Incorporate the code from q2Code.java into MyCITS2200Project.java
 
 Minor note: 
 q2Code.java has been linted by the IDE</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgKGludCBjdXJyVmVydCwgYm9vbGVhbltdIHZpc2l0ZWQpIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBIZWxwcyBjb252ZXJ0IGZyb20gU3RyaW5nIHRvIEludGVnZXIuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBIZWxwcyBjb252ZXJ0IGZyb20gSW50ZWdlciB0byBTdHJpbmcuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgLy9yZWNvbnN0cnVjdCB0aGUgcGF0aCBmb3IgdGVzdGluZyBwdXJwb3NlcwogICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIkhhbWlsdG9uIFBhdGggaXM6ICIpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgaGFtUGF0aC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBpZiAoaSA9PSBoYW1QYXRoLmxlbmd0aCAtIDEpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaGFtUGF0aFtpXSArICIlbiIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChoYW1QYXRoW2ldICsgIiAtPiAiKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nW10gZ2V0SGFtaWx0b25pYW5QYXRoKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
