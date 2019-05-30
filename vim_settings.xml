@@ -96,11 +96,11 @@
         <mark key="." line="30" column="46" />
         <mark key="^" line="30" column="46" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1559201715247">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="12" column="48" />
-        <mark key="^" line="12" column="48" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1559230446328">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="63" column="5" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="98" column="3" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph_no_Braess_paradox.txt" timestamp="1559123942110">
         <mark key="[" line="126" column="0" />
@@ -137,11 +137,12 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559227985594">
-        <mark key="[" line="435" column="44" />
-        <mark key="]" line="435" column="59" />
-        <mark key="." line="435" column="59" />
-        <mark key="^" line="435" column="59" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559230029756">
+        <mark key="'" line="231" column="0" />
+        <mark key="[" line="441" column="49" />
+        <mark key="]" line="441" column="48" />
+        <mark key="." line="441" column="48" />
+        <mark key="^" line="441" column="48" />
       </file>
       <file name="/fragment.java" timestamp="1559124167502">
         <mark key="[" line="0" column="0" />
@@ -234,58 +235,57 @@
       <jump line="130" column="47" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
       <jump line="132" column="58" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
       <jump line="1" column="19" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="432" column="28" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="231" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNjcFN0ckJ1aWxkID0gbmV3IFN0cmluZ0J1aWxkZXIoMiAqIHZlcnRDb3VudCk7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIGdldFNob3J0ZXN0UGF0aFRlc3QoQ0lUUzIyMDBQcm9qZWN0IHByb2opIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgaW50IHBhdGhUZXN0MSA9IHByb2ouZ2V0U2hvcnRlc3RQYXRoKCIvd2lraS9GbG93X25ldHdvcmsiLCAiL3dpa2kvQnJhZXNzJTI3X3BhcmFkb3giKTsgLy9iYXNpYyB0ZXN0IGZvciBhIGNsb3NlIHZlcnRleAogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU2hvcnRlc3QgcGF0aCBmcm9tIC93aWtpL0Zsb3dfbmV0d29yayB0byAvd2lraS9CcmFlc3MlJTI3X3BhcmFkb3ggaXMgJWQlbiIsIHBhdGhUZXN0MSk7CiAgICAgICAgICAgIGludCBwYXRoVGVzdDIgPSBwcm9qLmdldFNob3J0ZXN0UGF0aCgiL3dpa2kvRmxvd19uZXR3b3JrIiwgIi93aWtpL05ldHdvcmtfc2ltcGxleF9hbGdvcml0aG0iKTsgLy9iYXNpYyB0ZXN0IGZvciBhIGZ1cnRoZXIgYXdheSB2ZXJ0ZXgKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIlNob3J0ZXN0IHBhdGggZnJvbSAvd2lraS9GbG93X25ldHdvcmsgdG8gL3dpa2kvTmV0d29ya19zaW1wbGV4X2FsZ29yaXRobSBpcyAlZCVuIiwgcGF0aFRlc3QyKTsKICAgICAgICAgICAgaW50IHBhdGhUZXN0MyA9IHByb2ouZ2V0U2hvcnRlc3RQYXRoKCIvd2lraS9Ob3doZXJlLXplcm9fZmxvdyIsICIvd2lraS9Hb21vcnklRTIlODAlOTNIdV90cmVlIik7IC8vYmFzaWMgdGVzdCBmb3IgYW4gZXZlbiBmdXJ0aGVyIGF3YXkgdmVydGV4CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJTaG9ydGVzdCBwYXRoIGZyb20gL3dpa2kvTm93aGVyZS16ZXJvX2Zsb3cgdG8gL3dpa2kvR29tb3J5JSVFMiUlODAlJTkzSHVfdHJlZSBpcyAlZCVuIiwgcGF0aFRlc3QzKTsKICAgICAgICAgICAgaW50IHBhdGhUZXN0NCA9IHByb2ouZ2V0U2hvcnRlc3RQYXRoKCIvd2lraS9CcmFlc3MlMjdfcGFyYWRveCIsICIvd2lraS9GbG93X25ldHdvcmsiKTsgLy90ZXN0IGZvciBub24tZXhpc3RpbmcgcGF0aAogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU2hvcnRlc3QgcGF0aCBmcm9tIC93aWtpL0JyYWVzcyUlMjdfcGFyYWRveCB0byAvd2lraS9GbG93X25ldHdvcmsgaXMgJWQlbiIsIHBhdGhUZXN0NCk7CiAgICAgICAgICAgIGludCBwYXRoVGVzdDUgPSBwcm9qLmdldFNob3J0ZXN0UGF0aCgiL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0iLCAiL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0iKTsgLy90ZXN0IGZvciBvd24gdmVydGV4CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJTaG9ydGVzdCBwYXRoIGZyb20gL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0gdG8gL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0gaXMgJWQlbiIsIHBhdGhUZXN0NSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUaGVyZSB3YXMgYSBwcm9ibGVtOiIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS50b1N0cmluZygpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>medium_graph.txt</text>
       </register>
       <register name="/" type="4">
-        <text>SCP</text>
+        <text>Prints out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJIYW1pbHRvbiBQYXRoIGlzOiAiKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGhhbVBhdGgubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgaWYgKGkgPT0gaGFtUGF0aC5sZW5ndGggLSAxKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGhhbVBhdGhbaV0gKyAiJW4iKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaGFtUGF0aFtpXSArICIgLT4gIik7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNjcFN0ckJ1aWxkID0gbmV3IFN0cmluZ0J1aWxkZXIoMiAqIHZlcnRDb3VudCk7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIGdldFNob3J0ZXN0UGF0aFRlc3QoQ0lUUzIyMDBQcm9qZWN0IHByb2opIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgaW50IHBhdGhUZXN0MSA9IHByb2ouZ2V0U2hvcnRlc3RQYXRoKCIvd2lraS9GbG93X25ldHdvcmsiLCAiL3dpa2kvQnJhZXNzJTI3X3BhcmFkb3giKTsgLy9iYXNpYyB0ZXN0IGZvciBhIGNsb3NlIHZlcnRleAogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU2hvcnRlc3QgcGF0aCBmcm9tIC93aWtpL0Zsb3dfbmV0d29yayB0byAvd2lraS9CcmFlc3MlJTI3X3BhcmFkb3ggaXMgJWQlbiIsIHBhdGhUZXN0MSk7CiAgICAgICAgICAgIGludCBwYXRoVGVzdDIgPSBwcm9qLmdldFNob3J0ZXN0UGF0aCgiL3dpa2kvRmxvd19uZXR3b3JrIiwgIi93aWtpL05ldHdvcmtfc2ltcGxleF9hbGdvcml0aG0iKTsgLy9iYXNpYyB0ZXN0IGZvciBhIGZ1cnRoZXIgYXdheSB2ZXJ0ZXgKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIlNob3J0ZXN0IHBhdGggZnJvbSAvd2lraS9GbG93X25ldHdvcmsgdG8gL3dpa2kvTmV0d29ya19zaW1wbGV4X2FsZ29yaXRobSBpcyAlZCVuIiwgcGF0aFRlc3QyKTsKICAgICAgICAgICAgaW50IHBhdGhUZXN0MyA9IHByb2ouZ2V0U2hvcnRlc3RQYXRoKCIvd2lraS9Ob3doZXJlLXplcm9fZmxvdyIsICIvd2lraS9Hb21vcnklRTIlODAlOTNIdV90cmVlIik7IC8vYmFzaWMgdGVzdCBmb3IgYW4gZXZlbiBmdXJ0aGVyIGF3YXkgdmVydGV4CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJTaG9ydGVzdCBwYXRoIGZyb20gL3dpa2kvTm93aGVyZS16ZXJvX2Zsb3cgdG8gL3dpa2kvR29tb3J5JSVFMiUlODAlJTkzSHVfdHJlZSBpcyAlZCVuIiwgcGF0aFRlc3QzKTsKICAgICAgICAgICAgaW50IHBhdGhUZXN0NCA9IHByb2ouZ2V0U2hvcnRlc3RQYXRoKCIvd2lraS9CcmFlc3MlMjdfcGFyYWRveCIsICIvd2lraS9GbG93X25ldHdvcmsiKTsgLy90ZXN0IGZvciBub24tZXhpc3RpbmcgcGF0aAogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU2hvcnRlc3QgcGF0aCBmcm9tIC93aWtpL0JyYWVzcyUlMjdfcGFyYWRveCB0byAvd2lraS9GbG93X25ldHdvcmsgaXMgJWQlbiIsIHBhdGhUZXN0NCk7CiAgICAgICAgICAgIGludCBwYXRoVGVzdDUgPSBwcm9qLmdldFNob3J0ZXN0UGF0aCgiL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0iLCAiL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0iKTsgLy90ZXN0IGZvciBvd24gdmVydGV4CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJTaG9ydGVzdCBwYXRoIGZyb20gL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0gdG8gL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0gaXMgJWQlbiIsIHBhdGhUZXN0NSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUaGVyZSB3YXMgYSBwcm9ibGVtOiIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS50b1N0cmluZygpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuW10gdmlzaXRlZCA9IG5ldyBib29sZWFuW3ZlcnRDb3VudF07Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZ2V0Q2VudGVyc1Rlc3QoQ0lUUzIyMDBQcm9qZWN0IHByb2opIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJHcmFwaCBjZW50ZXJzOiAiICsgQXJyYXlzLnRvU3RyaW5nKHByb2ouZ2V0Q2VudGVycygpKSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUaGVyZSB3YXMgYSBwcm9ibGVtOiIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS50b1N0cmluZygpKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcFN0ckJ1aWxkLmFwcGVuZCgiXG4iKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZ2V0Q2VudGVyc1Rlc3QoQ0lUUzIyMDBQcm9qZWN0IHByb2opIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJHcmFwaCBjZW50ZXJzOiAiICsgQXJyYXlzLnRvU3RyaW5nKHByb2ouZ2V0Q2VudGVycygpKSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUaGVyZSB3YXMgYSBwcm9ibGVtOiIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS50b1N0cmluZygpKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcFN0ckJ1aWxkLmFwcGVuZCh3aWtpLmtvczJuZChjdXJyVmVydCwgdmlzaXRlZCkpLmFwcGVuZCgiICIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZ2V0SGFtaWx0b25pYW5QYXRoVGVzdChDSVRTMjIwMFByb2plY3QgcHJvaikgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN0cmluZ1tdIGhhbVBhdGggPSBwcm9qLmdldEhhbWlsdG9uaWFuUGF0aCgpOwoKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIkhhbWlsdG9uIFBhdGggaXM6ICIpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGhhbVBhdGgubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgIGlmIChpID09IGhhbVBhdGgubGVuZ3RoIC0gMSkgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaGFtUGF0aFtpXSArICIlbiIpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGhhbVBhdGhbaV0gKyAiIC0+ICIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJUaGVyZSB3YXMgYSBwcm9ibGVtOiIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZS50b1N0cmluZygpKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGN1cnJWZXJ0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogICAgICAgIC8vIEEgY2hlY2sgdG8gc2VlIGlmIHRoZSBncmFwaCBpcyBkaXNjb25uZWN0ZWQuCiAgICAgICAgaWYgKHJhZGl1cyA9PSAtMSkgewogICAgICAgICAgICBTdHJpbmdbXSBkaXNjb25uZWN0ZWQgPSBuZXcgU3RyaW5nWzFdOwogICAgICAgICAgICBkaXNjb25uZWN0ZWRbMF0gPSAiTm8gY2VudGVycyBleGlzdCwgZGlzY29ubmVjdGVkIGdyYXBoLiI7CiAgICAgICAgICAgIHJldHVybiBkaXNjb25uZWN0ZWQ7CiAgICAgICAgfSovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIHNjcEFycmF5SW50ID0gbmV3IGludFt2ZXJ0Q291bnRdW3ZlcnRDb3VudF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Incorporate the code from q2Code.java into MyCITS2200Project.java
-
-Minor note: 
-q2Code.java has been linted by the IDE</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SCP</last-search>
+      <last-search>Prints out</last-search>
       <last-offset />
-      <last-pattern>SCP</last-pattern>
+      <last-pattern>Prints out</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -302,6 +302,8 @@ q2Code.java has been linted by the IDE</text>
         <entry>Bra</entry>
         <entry>vertCount</entry>
         <entry>SCP</entry>
+        <entry>scp</entry>
+        <entry>Prints out</entry>
       </history-search>
       <history-cmd>
         <entry>set rn</entry>
