@@ -74,8 +74,8 @@
         <mark key="^" line="12" column="62" />
         <mark key="." line="12" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559232697149">
-        <mark key="[" line="5" column="4" />
+      <file name="/Dummy.txt" timestamp="1559235760893">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -140,14 +140,14 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559234280097">
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559236492419">
         <mark key="'" line="231" column="0" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
-        <mark key="^" line="206" column="33" />
+        <mark key="[" line="196" column="68" />
+        <mark key="]" line="197" column="24" />
+        <mark key="." line="197" column="24" />
+        <mark key="^" line="197" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1559124167502">
+      <file name="/fragment.java" timestamp="1559235762849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Iterator.class" timestamp="1554777049066">
@@ -242,11 +242,11 @@
       <jump line="231" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NjQXJyYXlBcnJheVtzY2NDb3VudF1bd2lraS5rb3MybmQoY3VyclZlcnQsIHZpc2l0ZWQsIHNjY0FycmF5LCAwKV07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Prints out</text>
@@ -255,31 +255,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od2lraS5ncmFwaFRvU3RyaW5nKHdpa2kuZ2V0QWRqTGlzdCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NjQXJyYXlBcnJheVtzY2NDb3VudF1bd2lraS5rb3MybmQoY3VyclZlcnQsIHZpc2l0ZWQsIHNjY0FycmF5LCAwKV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NjQXJyYXlMaXN0W3ZlcnROdW1dID0gd2lraS5pZFRvVVJMKGN1cnJWZXJ0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NjQ291bnQrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVydE51bSsrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc2NjQXJyYXkgPSBuZXcgU3RyaW5nW3ZlcnRDb3VudF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHNjY0NvdW50ID0gLTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lraS5rb3Mxc3QoaSwgdmlzaXRlZCwgZmluaXNoVGltZVN0YWNrKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHNjY0NvdW50ID0gLTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAgICAgICAgIFRoZSBpbmRleCBvZiB0aGUgU3Ryb25nbHkgQ29ubmVjdGVkIENvbXBvbmVudCB3aGljaCB0aGlzIGZ1bmN0aW9uIGlzIGN1cnJlbnRseSBhZGRpbmcgdG8uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NjQXJyYXlBcnJheVtzY2NDb3VudF1bd2lraS5rb3MybmQoY3VyclZlcnQsIHZpc2l0ZWQsIHNjY0FycmF5LCAwKV07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0gc2NjTnVtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NjQ291bnQrKzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc2NjQXJyYXkgPSBuZXcgU3RyaW5nW3ZlcnRDb3VudF07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
