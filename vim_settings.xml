@@ -6,10 +6,6 @@
       <file name="vim_settings.xml" timestamp="1558938720308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Link.class" timestamp="1554088105854">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="15" column="1" />
-      </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/StackBlockTest.java" timestamp="1556768032378">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -51,9 +47,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/BinaryTree.class" timestamp="1554776508348">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="48" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" timestamp="1559200756577">
+        <mark key="'" line="1" column="19" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="65" column="5" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="47" column="33" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 2/src/ComboLock.java" timestamp="1552871327477">
         <mark key="[" line="0" column="28" />
@@ -75,6 +74,11 @@
         <mark key="^" line="12" column="62" />
         <mark key="." line="12" column="62" />
       </file>
+      <file name="/Dummy.txt" timestamp="1559202385590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph_no_Braess%27_paradox.txt" timestamp="1559123530144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -92,6 +96,12 @@
         <mark key="." line="30" column="46" />
         <mark key="^" line="30" column="46" />
       </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1559201715247">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="48" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph_no_Braess_paradox.txt" timestamp="1559123942110">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
@@ -102,10 +112,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Search.class" timestamp="1555550836787">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test/CITS2200ProjectTester.java" timestamp="1556772295434">
         <mark key="[" line="3" column="32" />
@@ -130,6 +136,12 @@
         <mark key="]" line="3" column="31" />
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559202211467">
+        <mark key="[" line="405" column="60" />
+        <mark key="]" line="405" column="61" />
+        <mark key="." line="405" column="61" />
+        <mark key="^" line="405" column="61" />
       </file>
       <file name="/fragment.java" timestamp="1559124167502">
         <mark key="[" line="0" column="0" />
@@ -198,55 +210,85 @@
       <jump line="6" column="17" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph_no_Braess%27_paradox.txt" />
+      <jump line="2" column="52" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="3" column="26" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="7" column="84" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="8" column="42" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="11" column="48" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="12" column="107" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="14" column="54" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="23" column="42" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="24" column="92" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="29" column="52" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="30" column="50" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="31" column="43" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
+      <jump line="106" column="88" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="107" column="46" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="110" column="52" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="111" column="111" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="113" column="58" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="122" column="46" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="123" column="96" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="128" column="56" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="129" column="54" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="130" column="47" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="132" column="58" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
+      <jump line="1" column="19" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>Incorporate the code from q2Code.java into MyCITS2200Project.java
+
+Minor note: 
+q2Code.java has been linted by the IDE</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>kos1st</text>
       </register>
       <register name="/" type="4">
-        <text>Bra</text>
+        <text>SCP</text>
       </register>
-      <register name="0" type="4">
-        <text>No centers exist, disconnected graph.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJIYW1pbHRvbiBQYXRoIGlzOiAiKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGhhbVBhdGgubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgaWYgKGkgPT0gaGFtUGF0aC5sZW5ndGggLSAxKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGhhbVBhdGhbaV0gKyAiJW4iKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaGFtUGF0aFtpXSArICIgLT4gIik7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Incorporate the code from q2Code.java into MyCITS2200Project.java
+
+Minor note: 
+q2Code.java has been linted by the IDE</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBBIGNoZWNrIHRvIHNlZSBpZiB0aGUgYXJyYXkgaXMgZGlzY29ubmVjdGVkLgogICAgICAgIGZvciAoaW50IGVjY2VudHJpY2l0eSA6IGVjY2VudHJpY2l0aWVzKSB7CiAgICAgICAgICAgIGlmIChlY2NlbnRyaWNpdHkgPT0gLTEpIHsKICAgICAgICAgICAgICAgIFN0cmluZ1tdIGVycm9yID0gbmV3IFN0cmluZ1sxXTsKICAgICAgICAgICAgICAgIGVycm9yWzBdID0gIk5vIGNlbnRlcnMgZXhpc3QsIGRpc2Nvbm5lY3RlZCBncmFwaC4iOwogICAgICAgICAgICAgICAgcmV0dXJuIGVycm9yOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgKGludCBjdXJyVmVydCwgYm9vbGVhbltdIHZpc2l0ZWQpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogICAgICAgICAgICAgICAgaWYgKGRpc3RhbmNlSVRvSiA9PSAtMSkgewogICAgICAgICAgICAgICAgfSovCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBIZWxwcyBjb252ZXJ0IGZyb20gU3RyaW5nIHRvIEludGVnZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBIZWxwcyBjb252ZXJ0IGZyb20gSW50ZWdlciB0byBTdHJpbmcuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmdbXSBlcnJvciA9IG5ldyBTdHJpbmdbMV07CiAgICAgICAgICAgICAgICAgICAgZXJyb3JbMF0gPSAiTm8gY2VudGVycyBleGlzdCwgZGlzY29ubmVjdGVkIGdyYXBoLiI7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGVycm9yOwo=</text>
+        <text encoding="base64">CiAgICAgICAgLy9yZWNvbnN0cnVjdCB0aGUgcGF0aCBmb3IgdGVzdGluZyBwdXJwb3NlcwogICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIkhhbWlsdG9uIFBhdGggaXM6ICIpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgaGFtUGF0aC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBpZiAoaSA9PSBoYW1QYXRoLmxlbmd0aCAtIDEpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaGFtUGF0aFtpXSArICIlbiIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChoYW1QYXRoW2ldICsgIiAtPiAiKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGNlbnRlcnNJRC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBpZiAoY2VudGVyc0lEW2ldID09IC0xKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQXJyYXlzLmJpbmFyeVNlYXJjaChjZW50ZXJzLCAwKSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nW10gZ2V0SGFtaWx0b25pYW5QYXRoKCkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQcmludHMgb3V0IHdpa2kuCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHdpa2kuZ3JhcGhUb1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBoYW1QYXRoID0gbmV3IFN0cmluZ1t3aWtpLmdldFZlcnRDb3VudCgpXTsKICAgICAgICBpZiAod2lraS5nZXRWZXJ0Q291bnQoKSA+IDIwKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTW9yZSB0aGFuIDIwIHZlcnRpY2VzIGluIGdyYXBoIGlzIG5vdCBzdXBwb3J0ZWQsIHJldHVybmluZyBlbXB0eSBhcnJheS4iKTsKICAgICAgICAgICAgcmV0dXJuIGhhbVBhdGg7CiAgICAgICAgfQogICAgICAgIGJvb2xlYW5bXVtdIG1lbW9UYWJsZSA9IG5ldyBib29sZWFuW3dpa2kuZ2V0VmVydENvdW50KCldWzEgPDwgd2lraS5nZXRWZXJ0Q291bnQoKV07CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCB3aWtpLmdldFZlcnRDb3VudCgpOyBpKyspIHsKICAgICAgICAgICAgbWVtb1RhYmxlW2ldWzEgPDwgaV0gPSB0cnVlOyAvL2luaXRpYWxpc2UgdGhlIGFycmF5IChlYWNoIHZlcnRleCBpIHRoYXQgdmlzaXRzIGkgZXhhY3RseSBvbmNlKQogICAgICAgIH0KICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8ICgxIDw8IHdpa2kuZ2V0VmVydENvdW50KCkpOyBpKyspIHsgLy9mb3IgYWxsIHN1YnNldHMgb2YgdGhlIHZlcnRpY2VzCiAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgd2lraS5nZXRWZXJ0Q291bnQoKTsgaisrKSB7IC8vY2hlY2sgd2hpY2ggdmVydGljZXMgZnJvbSAwIHRvIHdpa2kuZ2V0VmVydENvdW50KCkgYXJlIHByZXNlbnQgaW4gdGhlIHN1YnNldAogICAgICAgICAgICAgICAgaWYgKChpJigxIDw8IGopKSA9PSAoMSA8PCBqKSkgeyAvL2lmIHZlcnRleCBpcyBpbiB0aGUgc3Vic2V0CiAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgayA9IDA7IGsgPCB3aWtpLmdldFZlcnRDb3VudCgpOyBrKyspIHsgLy9mb3IgZWFjaCB2ZXJ0ZXggawogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaiAhPSBrICYmIHdpa2kuYWRqTGlzdC5nZXQoaykuY29udGFpbnMoaikgJiYgKGkmKDEgPDwgaykpID09ICgxIDw8IGspICYmIG1lbW9UYWJsZVtrXVtpXigxIDw8IGopXSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVtb1RhYmxlW2pdW2ldID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgd2lraS5nZXRWZXJ0Q291bnQoKTsgaSsrKSB7CiAgICAgICAgICAgIGlmIChtZW1vVGFibGVbaV1bKDEgPDwgd2lraS5nZXRWZXJ0Q291bnQoKSkgLSAxXSkgeyAvL05vdGU6ICgxIDw8IHdpa2kuZ2V0VmVydENvdW50KCkpIC0gMSBpcyBlcXVpdmFsZW50IHRvIGFsbCAxcyBpbiBiaW5hcnkKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQSBIYW1pbHRvbmlhbiBwYXRoIGV4aXN0cyIpOwogICAgICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50ZigiTGFzdCBJbmRleCBpczogJWQlbiIsIGkpOwogICAgICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4od2lraS5pbnRlZ2VyVG9TdHJpbmdMaXN0LmdldChpKSk7CiAgICAgICAgICAgICAgICBpbnQgaW5kZXggPSBpOwogICAgICAgICAgICAgICAgaW50IGJpbmFyeVJlcCA9ICgxIDw8IHdpa2kuZ2V0VmVydENvdW50KCkpIC0gMTsgLy9zdGFydCB3aXRoIGFsbCAxcwogICAgICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCB3aWtpLmdldFZlcnRDb3VudCgpOyBqKyspIHsKICAgICAgICAgICAgICAgICAgICBoYW1QYXRoWyh3aWtpLmdldFZlcnRDb3VudCgpIC0gMSkgLSBqXSA9IHdpa2kuaWRUb1VSTChpbmRleCk7IC8vQWN0dWFsbHkgZmlsbHMgdGhlIGFycmF5IGZyb20gdGhlIGxhc3QgcG9zaXRpb24KICAgICAgICAgICAgICAgICAgICBiaW5hcnlSZXAgPSBiaW5hcnlSZXBeKDEgPDwgaW5kZXgpOyAvL2VxdWFsIHRvIG9yaWdpbmFsIGJpbmFyeVJlcCB3aXRoIHRoZSBiaXQgaW4gdGhlIHBvc2l0aW9uIHdlIGp1c3QgZ290IHR1cm5lZCBvZmYKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMDsgayA8IHdpa2kuZ2V0VmVydENvdW50KCk7IGsrKykgewogICAgICAgICAgICAgICAgICAgICAgICAvL2lmIGsgaGFzIGJlZW4gdmlzaXRlZCBhbmQgaXRzIHZhbHVlIGluIG91ciBtZW1vIHRhYmxlIGlzIHRydWUgYW5kIHRoZXJlIGV4aXN0cyBhIHBhdGggZnJvbSBrIHRvIG91ciBjdXJyZW50IGluZGV4CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICgoKGJpbmFyeVJlcCYoMSA8PCBrKSkgPT0gKDEgPDwgaykpICYmIChtZW1vVGFibGVba11bYmluYXJ5UmVwXSkgJiYgd2lraS5hZGpMaXN0LmdldChrKS5jb250YWlucyhpbmRleCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4ID0gazsgLy9zZXQgb3VyIG5ldyBpbmRleCB0byBrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOyAvL2JyZWFrIG91dCBvZiBmb3IgbG9vcCBvbmNlIGFueSBIYW1pbHRvbmlhbiBwYXRoIGhhcyBiZWVuIGZvdW5kCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIC8vcmVjb25zdHJ1Y3QgdGhlIHBhdGggZm9yIHRlc3RpbmcgcHVycG9zZXMKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJIYW1pbHRvbiBQYXRoIGlzOiAiKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGhhbVBhdGgubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgaWYgKGkgPT0gaGFtUGF0aC5sZW5ndGggLSAxKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGhhbVBhdGhbaV0gKyAiJW4iKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaGFtUGF0aFtpXSArICIgLT4gIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGhhbVBhdGg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Bra</last-search>
+      <last-search>SCP</last-search>
       <last-offset />
-      <last-pattern>Bra</last-pattern>
+      <last-pattern>SCP</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -261,13 +303,15 @@
         <entry>adj</entry>
         <entry>braess</entry>
         <entry>Bra</entry>
+        <entry>vertCount</entry>
+        <entry>SCP</entry>
       </history-search>
       <history-cmd>
         <entry>set rn</entry>
         <entry>set nm</entry>
         <entry>sete</entry>
-        <entry>set nu</entry>
         <entry>set rnu</entry>
+        <entry>set nu</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -297,6 +341,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
