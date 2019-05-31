@@ -25,6 +25,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/.idea/dictionaries/Alan_Chen_Desktop.xml" timestamp="1559299982720">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 6/src/SearchImp.java" timestamp="1555578122813">
         <mark key="[" line="49" column="50" />
         <mark key="]" line="50" column="19" />
@@ -36,12 +41,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" timestamp="1559297651287">
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" timestamp="1559300282871">
         <mark key="'" line="121" column="0" />
-        <mark key="[" line="113" column="77" />
-        <mark key="]" line="114" column="12" />
-        <mark key="." line="114" column="12" />
-        <mark key="^" line="114" column="12" />
+        <mark key="[" line="118" column="85" />
+        <mark key="]" line="118" column="55" />
+        <mark key="." line="118" column="55" />
+        <mark key="^" line="118" column="88" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/hamiltonian.gv" timestamp="1559290245239">
         <mark key="[" line="10" column="1" />
@@ -91,8 +96,8 @@
         <mark key="^" line="12" column="62" />
         <mark key="." line="12" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559297871954">
-        <mark key="[" line="1" column="0" />
+      <file name="/Dummy.txt" timestamp="1559299804309">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -155,12 +160,11 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559299546015">
-        <mark key="'" line="472" column="15" />
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="52" column="7" />
-        <mark key="." line="52" column="7" />
-        <mark key="^" line="52" column="7" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559300222883">
+        <mark key="[" line="476" column="8" />
+        <mark key="]" line="476" column="10" />
+        <mark key="." line="476" column="10" />
+        <mark key="^" line="476" column="10" />
       </file>
       <file name="/fragment.java" timestamp="1559287687049">
         <mark key="[" line="0" column="0" />
@@ -278,43 +282,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
       </register>
       <register name="0" type="4">
-        <text>.append(&quot; - &quot;)</text>
+        <text>http://mathworld.wolfram.com/GraphCenter.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGd2Rm9ybWF0KSB7CiAgICAgICAgICAgICAgICBmb3IgKFN0cmluZyB2ZXJ0ZXggOiBzdHJpbmdUb0ludGVnZXJNYXAua2V5U2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBpbnQgaW5kZXggPSBzdHJpbmdUb0ludGVnZXJNYXAuZ2V0KHZlcnRleCk7CiAgICAgICAgICAgICAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gdmVydFVybExpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFkakxpc3QuZ2V0KGluZGV4KS5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0VXJsTGlzdC5hZGQoaWRUb1VSTChhZGpMaXN0LmdldChpbmRleCkuZ2V0KGkpKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGZvcm1hdHRlZE91dHB1dC5hcHBlbmQodmVydGV4KS5hcHBlbmQoIiAtPiAiKS5hcHBlbmQodmVydFVybExpc3QuZ2V0KGluZGV4KSkuYXBwZW5kKCI7IFxuIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPHc+ZWNjZW50cml0aWVzPC93Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBmb3JtYXR0ZWRPdXRwdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigiR3JhcGggcmVwcmVzZW50YXRpb246IFxuIik7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIHZlcnRleCA6IHN0cmluZ1RvSW50ZWdlck1hcC5rZXlTZXQoKSkgewogICAgICAgICAgICAgICAgaW50IGluZGV4ID0gc3RyaW5nVG9JbnRlZ2VyTWFwLmdldCh2ZXJ0ZXgpOwogICAgICAgICAgICAgICAgZm9ybWF0dGVkT3V0cHV0LmFwcGVuZCgiVmVydGV4IElEOiAiKS5hcHBlbmQoaW5kZXgpLmFwcGVuZCgiIFZlcnRleDogIikuYXBwZW5kKHZlcnRleCkuYXBwZW5kKCIgLT4gIikuYXBwZW5kKGFkakxpc3QuZ2V0KGluZGV4KSkuYXBwZW5kKCI7IFxuIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGZvcm1hdHRlZE91dHB1dC50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGd2Rm9ybWF0KSB7CiAgICAgICAgICAgICAgICBmb3IgKFN0cmluZyB2ZXJ0ZXggOiBzdHJpbmdUb0ludGVnZXJNYXAua2V5U2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBpbnQgaW5kZXggPSBzdHJpbmdUb0ludGVnZXJNYXAuZ2V0KHZlcnRleCk7CiAgICAgICAgICAgICAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gdmVydFVybExpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGFkakxpc3QuZ2V0KGluZGV4KS5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0VXJsTGlzdC5hZGQoaWRUb1VSTChhZGpMaXN0LmdldChpbmRleCkuZ2V0KGkpKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGZvcm1hdHRlZE91dHB1dC5hcHBlbmQodmVydGV4KS5hcHBlbmQoIiAtPiAiKS5hcHBlbmQodmVydFVybExpc3QuZ2V0KGluZGV4KSkuYXBwZW5kKCI7IFxuIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ck1haW46ClJlbW92ZSBzb21lIHRlc3RpbmcgcHJpbnQgc3RhdGVtZW50cwoKVGVzdGVyOgpOb3cgcmV0cmlldmVzIGdyYXBoRmlsZU5hbWUgZnJvbSBhcmdzWzBd</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">YGBgcGxhbnR1bWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBmb3JtYXR0ZWRPdXRwdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigiR3JhcGggcmVwcmVzZW50YXRpb246IFxuIik7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIHZlcnRleCA6IHN0cmluZ1RvSW50ZWdlck1hcC5rZXlTZXQoKSkgewogICAgICAgICAgICAgICAgaW50IGluZGV4ID0gc3RyaW5nVG9JbnRlZ2VyTWFwLmdldCh2ZXJ0ZXgpOwogICAgICAgICAgICAgICAgZm9ybWF0dGVkT3V0cHV0LmFwcGVuZCgiVmVydGV4IElEOiAiKS5hcHBlbmQoaW5kZXgpLmFwcGVuZCgiIFZlcnRleDogIikuYXBwZW5kKHZlcnRleCkuYXBwZW5kKCIgLT4gIikuYXBwZW5kKGFkakxpc3QuZ2V0KGluZGV4KSkuYXBwZW5kKCI7IFxuIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGZvcm1hdHRlZE91dHB1dC50b1N0cmluZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set surround</text>
