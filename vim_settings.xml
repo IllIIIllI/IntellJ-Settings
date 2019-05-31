@@ -94,11 +94,11 @@
         <mark key="." line="30" column="46" />
         <mark key="^" line="30" column="46" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1559239197292">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="22" column="7" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1559287387473">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="12" column="55" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph_no_Braess_paradox.txt" timestamp="1559123942110">
         <mark key="[" line="126" column="0" />
@@ -136,15 +136,17 @@
         <mark key="^" line="3" column="41" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559239158118">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="68" column="13" />
-        <mark key="]" line="70" column="38" />
-        <mark key="." line="70" column="38" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" timestamp="1559286789018">
+        <mark key="'" line="238" column="0" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
         <mark key="^" line="70" column="38" />
+        <mark key="." line="218" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1559235762849">
+      <file name="/fragment.java" timestamp="1559287687049">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/CITS2200.jar!/CITS2200/Iterator.class" timestamp="1554777049066">
         <mark key="[" line="6" column="0" />
@@ -238,11 +240,11 @@
       <jump line="231" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/MyCITS2200Project.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://github.com/IllIIIllI/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/IllIIIllI/</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Prints out</text>
@@ -251,31 +253,31 @@
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL0lsbElJSWxsSS8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UXVlc3Rpb24gNDogR3JhcGggQ2VudHJlcwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBDaGFuZ2UgZ3JhcGhGaWxlTmFtZSB0byB0aGUgbmFtZSBvZiB0aGUgZ3JhcGggZmlsZS4gUHV0IHRoZSBncmFwaCBmaWxlIGluIFRlc3QgUmVzb3VyY2VzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UXVlc3Rpb24gMzogU3Ryb25nbHkgQ29ubmVjdGVkIENvbXBvbmVudHMK</text>
+        <text encoding="base64">ICAgICAgICAvLyBVc2FnZTogUHV0IHRoZSBncmFwaCBmaWxlIGluIFRlc3QgUmVzb3VyY2VzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QSBIYW1pbHRvbmlhbiBQYXRoIGlzIHZlcnkgc2ltaWxhciB0byB0aGUgaW5mYW1vdXMgQ29tcHV0ZXIgU2NpZW5jZSBwcm9ibGVtIFRyYXZlbGxpbmcgU2FsZXNtYW4gUHJvYmxlbS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvai5nZXRTaG9ydGVzdFBhdGgoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhpcyBpbXBsZW1lbnRhdGlvbiB1c2VzIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QXMgc3VnZ2VzdGVkIGluIHRoZSBwcm9qZWN0IGVkaXRvcmlhbCwgcmF0aGVyIHRoYW4gdXNpbmcgYW4gYWxnb3JpdGhtIHdpdGggZmFjdG9yaWFsIHRpbWUgY29tcGxleGl0eSwgdGhpcyBwcm9ibGVtIHdhcyBzb2x2ZWQgYnkgdXRpbGlzaW5nIGR5bmFtaWMgcHJvZ3JhbW1pbmcgYW5kIHRoZSBIZWxkLUthcnAgYWxnb3JpdGhtLCB3aGljaCBoYXMgYW4gZXhwb25lbnRpYWwgdGltZSBjb21wbGV4aXR5LiBPdXIgY29kZSB1dGlsaXNlcyBhIEJvb2xlYW4gbWVtb2l6ZWQgdGFibGUgdG8gc3RvcmUgdGhlIHJlc3VsdHMgb2YgZWFjaCBjb21wdXRhdGlvbiwgd2l0aCBhIHRydWUgdmFsdWUgbWVhbmluZyB0aGVyZSBpcyBhIHBhdGggdGhhdCB2aXNpdHMgZWFjaCB2ZXJ0ZXggaW4gdGhlIHN1YnNldCBleGFjdGx5IG9uY2UsIGVuZGluZyBhdCB0aGUgdmVydGV4IGluIHRoZSBmaXJzdCBhcnJheSBpbmRleC4gRWFjaCBvZiB0aGUgc3Vic2V0cyBpcyByZXByZXNlbnRlZCBieSBhbiBpbnRlZ2VyLiBJZiB5b3UgdGhpbmsgYWJvdXQgdGhlIGJpbmFyeSByZXByZXNlbnRhdGlvbiBvZiBlYWNoIG9mIHRoZXNlIGludGVnZXJzLCBhIDEgaW5kaWNhdGVzIHRoYXQgdGhlIHZlcnRleCB3aXRoIHRoZSBhcHByb3ByaWF0ZSBpbmRleCBoYXMgYmVlbiB2aXNpdGVkLCB3aXRoIGEgMCBvdGhlcndpc2UuIFdlIHVzZSBiaXR3aXNlIG9wZXJhdG9ycyBvbiB0aGVzZSBpbnRlZ2VycyB0byBmYWNpbGl0YXRlIHRoZSBsb2dpYyBuZWVkZWQgZm9yIGZsb3cgY29udHJvbC4KCk91ciBjb2RlIGFsc28gcmVjb25zdHJ1Y3RzIHRoZSBIYW1pbHRvbmlhbiBwYXRoIGZyb20gdGhlIG1lbW9pemVkIHRhYmxlLiBJdCBjaGVja3MgdGhlIHRhYmxlIGZvciBhbnkgdHJ1ZSByZXN1bHRzIGF0IHRoZSBzdWJzZXQgaW5kZXggMlYgliAxLiBUaGlzIGludGVnZXIgaW4gYmluYXJ5IHJlcHJlc2VudGF0aW9uIGlzIGNvbXBvc2VkIG9mIGFsbCAxcywgd2hpY2ggd291bGQgbWVhbiB0aGF0IGV2ZXJ5IHZlcnRleCBpbiB0aGUgZ3JhcGggaGFzIGJlZW4gdmlzaXRlZCBvbmNlLiBUaGUgdGFibGUgaW5kZXggaXMgdGhlIGxhc3QgdmVydGV4IGluIHRoZSBwYXRoLiBXZSB0aGVuIHN3aXRjaCBvZmYgdGhlIGJpdCByZXByZXNlbnRpbmcgdGhlIGxhc3QgdmVydGV4IGFuZCBjaGVjayB0aGUgdGFibGUgYWdhaW4sIHJlcGVhdGluZyB1bnRpbCB0aGUgcGF0aCBpcyBjb21wbGV0ZS4gVGhlIHBzZXVkb2NvZGUgaXMgYXMgZm9sbG93czoKCkluaXRpYWxpc2UgbWVtb2l6ZWQgdHJ1dGggdGFibGUgZm9yIGFsbCBwb3NzaWJsZSBzdWJzZXRzIG9mIHRoZSB2ZXJ0aWNlcwooQSB0cnVlIHZhbHVlIG1lYW5zIHRoYXQgaXQgaXMgcG9zc2libGUgZm9yIHRoZSBzdWJzZXQgdG8gcmVhY2ggYSBuZXcgdW52aXNpdGVkIHZlcnRleCB4KQpmb3IgZWFjaCB2ZXJ0ZXggaQoJbWVtb1RhYmxlW2ldWzJpXSA9IHRydWUgKGkuZS4gVGhlIHZlcnRleCBpIHZpc2l0cyBpIGV4YWN0bHkgb25jZSkKCmZvciBlYWNoIHN1YnNldCB4Cglmb3IgZWFjaCB2ZXJ0ZXggaQoJCWlmIHRoZSB2ZXJ0ZXggaSBpcyBwcmVzZW50IGluIHRoZSBzdWJzZXQgeAoJCQlmb3IgZWFjaCB2ZXJ0ZXggagoJCQkJaWYgaSBpcyBub3QgZXF1YWwgdG8gaiBBTkQgaSBpcyBhZGphY2VudCB0byBqIEFORCBqIGlzIGluIHRoZQoJCQkJc3Vic2V0IHggQU5EIHRoZXJlIGV4aXN0cyBhIHBhdGggd2hpY2ggdmlzaXRzIGV2ZXJ5IHZlcnRleCBpbgoJCQkJdGhlIHN1YnNldCAoeCCWIGkpIHdoaWNoIGVuZHMgYXQgdmVydGV4IGoKCQkJCQltZW1vVGFibGVbaV1beF0gPSB0cnVlCgkJCQkJYnJlYWsKClBlcmZvcm0gdHJhY2ViYWNrIHRvIHJlY29uc3RydWN0IEhhbWlsdG9uaWFuIHBhdGgsIGlmIG9uZSBleGlzdHMKZm9yIGVhY2ggdmVydGV4IHgKCWlmIG1lbW9UYWJsZVt4XVsyeCCWIDFdID0gdHJ1ZQoJCWluaXRpYWxpc2UgaW5kZXggdG8gdmVydGV4IHgKCQlpbml0aWFsaXNlIG91ciBiaW5hcnkgcmVwcmVzZW50YXRpb24gb2YgdGhlIHN1YnNldCB0byAyeCCWIDEKCQlmb3IgZWFjaCB2ZXJ0ZXggeSBpbiBvdXIgcGF0aCAobm90ZTogdGhpcyBpcyBpbiByZXZlcnNlIG9yZGVyKQoJCQlzYXZlIHRoZSB2ZXJ0ZXggYXQgaW5kZXggYXMgb3VyIHl0aCB2ZXJ0ZXggaW4gb3VyIHBhdGgKCQkJdHVybiBvZmYgdGhlIGJpdCByZXByZXNlbnRpbmcgdGhlIHZlcnRleCBhdCBpbmRleCBpbiBvdXIgYmluYXJ5CgkJCXJlcHJlc2VudGF0aW9uCgkJCWZvciBlYWNoIHZlcnRleCB6CgkJCQlpZiB2ZXJ0ZXggeiBoYXMgYmVlbiB2aXNpdGVkIGluIG91ciBiaW5hcnkgcmVwcmVzZW50YXRpb24gQU5ECgkJCQltZW1vVGFibGVbel1bYmluYXJ5UmVwXSA9IHRydWUgQU5EIHRoZXJlIGV4aXN0cyBhIHBhdGggZnJvbQp6IHRvIG91ciBjdXJyZW50IGluZGV4CgkJCQkJc2V0IGluZGV4IHRvIHZlcnRleCB6CgkJCQkJYnJlYWsKCkJ5IHVzaW5nIHRoaXMgYXBwcm9hY2gsIHdlIGNhbiBzYXZlIGEgbG90IG9mIHRpbWUgYXMgb3RoZXIgZmFjdG9yaWFsIGFsZ29yaXRobXMgZ3JvdyBmYXN0ZXIgdGhhbiB0aGlzIGV4cG9uZW50aWFsIGFsZ29yaXRobS4gQXMgZXhwbGFpbmVkIGluIHRoZSBlZGl0b3JpYWwsIHRoZXJlIGFyZSBPKDJWKSBzdWJzZXRzIG9mIHZlcnRpY2VzIGluIHRoZSBncmFwaCwgYW5kIE8oVikgYmFzZSBjYXNlIHF1ZXN0aW9ucyBvZiB0aGUgZm9ybSCTSXMgdGhlcmUgYSBwYXRoIGVuZGluZyBhdCB0aGUgdmVydGV4IGkgdGhhdCB2aXNpdHMgaSBleGFjdGx5IG9uY2U/lCBXZSB0aGVuIGhhdmUgdG8gaW50cm9kdWNlIHRoZSBpbmR1Y3RpdmUgc3RlcCB0byB0aGUgYmFzZSBjYXNlLCB3aGljaCBjcmVhdGVzIGFub3RoZXIgTyhWKSBmYWN0b3IuIEhlbmNlIHRoZSBIZWxkLUthcnAgYWxnb3JpdGhtIGhhcyBhIHdvcnN0LWNhc2UgdGltZSBjb21wbGV4aXR5IG9mIE8oVjIyVikuCgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZ2V0U3Ryb25nbHlDb25uZWN0ZWRDb21wb25lbnRzVGVzdChDSVRTMjIwMFByb2plY3QgcHJvaikgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgICAgICBTdHJpbmdbXVtdIHNjcEFycmF5ID0gcHJvai5nZXRTdHJvbmdseUNvbm5lY3RlZENvbXBvbmVudHMoKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTdHJvbmdseSBjb25uZWN0ZWQgY29tcG9uZW50czogIiArIHNjcEFycmF5Lmxlbmd0aCk7CiAgICAgICAgICAgIGZvciAoU3RyaW5nW10gc3RyaW5ncyA6IHNjcEFycmF5KSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5ncy5sZW5ndGggKyAiOiAiICsgQXJyYXlzLnRvU3RyaW5nKHN0cmluZ3MpKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGhlcmUgd2FzIGEgcHJvYmxlbToiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUudG9TdHJpbmcoKSk7CiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UXVlc3Rpb24gMjogSGFtaWx0b25pYW4gUGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2NjQXJyYXlMaXN0QXJyYXlMaXN0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
