@@ -36,7 +36,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" timestamp="1559240857109">
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" timestamp="1559288758913">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="59" />
         <mark key="^" line="3" column="29" />
@@ -46,6 +46,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/hamiltonian.md" timestamp="1559288956399">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/q2Code.java" timestamp="1559200756577">
         <mark key="'" line="2" column="19" />
@@ -74,8 +80,10 @@
         <mark key="^" line="12" column="62" />
         <mark key="." line="12" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559240558472">
+      <file name="/Dummy.txt" timestamp="1559288692459">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph_no_Braess%27_paradox.txt" timestamp="1559123530144">
         <mark key="[" line="0" column="0" />
@@ -94,11 +102,11 @@
         <mark key="." line="30" column="46" />
         <mark key="^" line="30" column="46" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1559287387473">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="12" column="55" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/CITS2200ProjectTester.java" timestamp="1559288417805">
+        <mark key="[" line="79" column="49" />
+        <mark key="]" line="79" column="49" />
+        <mark key="." line="79" column="49" />
+        <mark key="^" line="79" column="37" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph_no_Braess_paradox.txt" timestamp="1559123942110">
         <mark key="[" line="126" column="0" />
@@ -241,43 +249,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ywo=</text>
+        <text encoding="base64">YGBgcGxhbnR1bWwK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>Prints out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL0lsbElJSWxsSS8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ywo=</text>
+        <text encoding="base64">YGBgcGxhbnR1bWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZGlncmFwaCBIYW1pdG9uaWFuIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDaGFuZ2UgZ3JhcGhGaWxlTmFtZSB0byB0aGUgbmFtZSBvZiB0aGUgZ3JhcGggZmlsZS4gUHV0IHRoZSBncmFwaCBmaWxlIGluIFRlc3QgUmVzb3VyY2VzCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2FnZTogUHV0IHRoZSBncmFwaCBmaWxlIGluIFRlc3QgUmVzb3VyY2VzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvai5nZXRTaG9ydGVzdFBhdGgoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgZ2V0U3Ryb25nbHlDb25uZWN0ZWRDb21wb25lbnRzVGVzdChDSVRTMjIwMFByb2plY3QgcHJvaikgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgICAgICBTdHJpbmdbXVtdIHNjcEFycmF5ID0gcHJvai5nZXRTdHJvbmdseUNvbm5lY3RlZENvbXBvbmVudHMoKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJTdHJvbmdseSBjb25uZWN0ZWQgY29tcG9uZW50czogIiArIHNjcEFycmF5Lmxlbmd0aCk7CiAgICAgICAgICAgIGZvciAoU3RyaW5nW10gc3RyaW5ncyA6IHNjcEFycmF5KSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5ncy5sZW5ndGggKyAiOiAiICsgQXJyYXlzLnRvU3RyaW5nKHN0cmluZ3MpKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGhlcmUgd2FzIGEgcHJvYmxlbToiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUudG9TdHJpbmcoKSk7CiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHBhdGhUZXN0MSA9IHByb2ouZ2V0U2hvcnRlc3RQYXRoKCIvd2lraS9GbG93X25ldHdvcmsiLCAiL3dpa2kvQnJhZXNzJTI3X3BhcmFkb3giKTsgLy9iYXNpYyB0ZXN0IGZvciBhIGNsb3NlIHZlcnRleAogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU2hvcnRlc3QgcGF0aCBmcm9tIC93aWtpL0Zsb3dfbmV0d29yayB0byAvd2lraS9CcmFlc3MlJTI3X3BhcmFkb3ggaXMgJWQlbiIsIHBhdGhUZXN0MSk7CiAgICAgICAgICAgIGludCBwYXRoVGVzdDIgPSBwcm9qLmdldFNob3J0ZXN0UGF0aCgiL3dpa2kvRmxvd19uZXR3b3JrIiwgIi93aWtpL05ldHdvcmtfc2ltcGxleF9hbGdvcml0aG0iKTsgLy9iYXNpYyB0ZXN0IGZvciBhIGZ1cnRoZXIgYXdheSB2ZXJ0ZXgKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIlNob3J0ZXN0IHBhdGggZnJvbSAvd2lraS9GbG93X25ldHdvcmsgdG8gL3dpa2kvTmV0d29ya19zaW1wbGV4X2FsZ29yaXRobSBpcyAlZCVuIiwgcGF0aFRlc3QyKTsKICAgICAgICAgICAgaW50IHBhdGhUZXN0MyA9IHByb2ouZ2V0U2hvcnRlc3RQYXRoKCIvd2lraS9Ob3doZXJlLXplcm9fZmxvdyIsICIvd2lraS9Hb21vcnklRTIlODAlOTNIdV90cmVlIik7IC8vYmFzaWMgdGVzdCBmb3IgYW4gZXZlbiBmdXJ0aGVyIGF3YXkgdmVydGV4CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJTaG9ydGVzdCBwYXRoIGZyb20gL3dpa2kvTm93aGVyZS16ZXJvX2Zsb3cgdG8gL3dpa2kvR29tb3J5JSVFMiUlODAlJTkzSHVfdHJlZSBpcyAlZCVuIiwgcGF0aFRlc3QzKTsKICAgICAgICAgICAgaW50IHBhdGhUZXN0NCA9IHByb2ouZ2V0U2hvcnRlc3RQYXRoKCIvd2lraS9CcmFlc3MlMjdfcGFyYWRveCIsICIvd2lraS9GbG93X25ldHdvcmsiKTsgLy90ZXN0IGZvciBub24tZXhpc3RpbmcgcGF0aAogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiU2hvcnRlc3QgcGF0aCBmcm9tIC93aWtpL0JyYWVzcyUlMjdfcGFyYWRveCB0byAvd2lraS9GbG93X25ldHdvcmsgaXMgJWQlbiIsIHBhdGhUZXN0NCk7CiAgICAgICAgICAgIGludCBwYXRoVGVzdDUgPSBwcm9qLmdldFNob3J0ZXN0UGF0aCgiL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0iLCAiL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0iKTsgLy90ZXN0IGZvciBvd24gdmVydGV4CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCJTaG9ydGVzdCBwYXRoIGZyb20gL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0gdG8gL3dpa2kvT3V0LW9mLWtpbHRlcl9hbGdvcml0aG0gaXMgJWQlbiIsIHBhdGhUZXN0NSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2NjQXJyYXlMaXN0QXJyYXlMaXN0LnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
