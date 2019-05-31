@@ -48,11 +48,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" timestamp="1559307531393">
-        <mark key="[" line="110" column="92" />
-        <mark key="]" line="106" column="17" />
-        <mark key="^" line="106" column="17" />
-        <mark key="." line="106" column="17" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" timestamp="1559309940644">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="4" />
+        <mark key="." line="117" column="4" />
+        <mark key="^" line="116" column="9" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/hamiltonian.gv" timestamp="1559290245239">
         <mark key="[" line="10" column="1" />
@@ -286,8 +286,8 @@
       <jump line="10" column="11" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/scc_basic_test.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3RhY2sgZmluaXNoVGltZVN0YWNrCg==</text>
       </register>
       <register name="-" type="4">
         <text>`</text>
@@ -298,19 +298,28 @@
       <register name="0" type="4">
         <text>Strongly Connected Components</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">QSBWZXJ0ZXg6IApCIFZlcnRleDogCkMgVmVydGV4OiAKRCBWZXJ0ZXg6IApFIFZlcnRleDogCkYgVmVydGV4OiAKRyBWZXJ0ZXg6IApIIFZlcnRleDogCkkgVmVydGV4OiAKSiBWZXJ0ZXg6IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">c3RhY2sgZmluaXNoVGltZVN0YWNrCg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">VmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">QSBWZXJ0ZXg6IApCIFZlcnRleDogCkMgVmVydGV4OiAKRCBWZXJ0ZXg6IApFIFZlcnRleDogCkYgVmVydGV4OiAKRyBWZXJ0ZXg6IApIIFZlcnRleDogCkkgVmVydGV4OiAKSiBWZXJ0ZXg6IA==</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">VmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiAKVmVydGV4IElEOiA=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFZlcnRleCBJRDogMTAgVmVydGV4OiBLIC0+IFtdOyAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">VmVydGV4IElEOiAwIFZlcnRleDogQSAtPiBbMV07IApWZXJ0ZXggSUQ6IDEgVmVydGV4OiBCIC0+IFsyLCAzXTsgClZlcnRleCBJRDogMiBWZXJ0ZXg6IEMgLT4gWzBdOyAKVmVydGV4IElEOiAzIFZlcnRleDogRCAtPiBbNF07IApWZXJ0ZXggSUQ6IDQgVmVydGV4OiBFIC0+IFs1XTsgClZlcnRleCBJRDogNSBWZXJ0ZXg6IEYgLT4gWzNdOyAKVmVydGV4IElEOiA2IFZlcnRleDogRyAtPiBbNSwgN107IApWZXJ0ZXggSUQ6IDcgVmVydGV4OiBIIC0+IFs4XTsgClZlcnRleCBJRDogOCBWZXJ0ZXg6IEkgLT4gWzldOyAKVmVydGV4IElEOiA5IFZlcnRleDogSiAtPiBbNiwgMTBdOyAKVmVydGV4IElEOiAxMCBWZXJ0ZXg6IEsgLT4gW107IAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>A
 B
 B
@@ -338,17 +347,8 @@ G
 J
 K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">RmluZHMgYWxsIHRoZSBTdHJvbmdseSBDb25uZWN0ZWQgQ29tcG9uZW50cyB1c2luZyBLb3NhcmFqdSdzIEFsZ29yaXRobS4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aHR0cHM6Ly93d3cuZ2Vla3Nmb3JnZWVrcy5vcmcvc3Ryb25nbHktY29ubmVjdGVkLWNvbXBvbmVudHMvLCAyNy8wNS8yMDE5Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">QSBTCmsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">RmluZHMgYWxsIHRoZSBTdHJvbmdseSBDb25uZWN0ZWQgQ29tcG9uZW50cyB1c2luZyBLb3NhcmFqdSdzIEFsZ29yaXRobS4K</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
