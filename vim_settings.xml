@@ -103,7 +103,7 @@
         <mark key="^" line="12" column="62" />
         <mark key="." line="12" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566536069902">
+      <file name="/Dummy.txt" timestamp="1566541245166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -173,6 +173,17 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="111" column="106" />
       </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/Labs/Lab 2/Knapsack.java" timestamp="1566541275081">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="43" column="3" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/Labs/Lab 2/KnapsackImp.java" timestamp="1566541626199">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
+      </file>
       <file name="/fragment.java" timestamp="1559287687049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -186,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="28" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 3/src/DequeCyclic.java" />
-      <jump line="17" column="16" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 3/src/DequeCyclic.java" />
-      <jump line="35" column="8" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 3/src/DequeCyclic.java" />
       <jump line="59" column="30" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 3/src/DequeCyclic.java" />
       <jump line="15" column="31" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 3/src/DequeCyclic.java" />
       <jump line="36" column="12" filename="$USER_HOME$/Google Drive/Alan Chen/Study/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Labs/Lab 3/src/DequeCyclic.java" />
@@ -286,20 +294,22 @@
       <jump line="168" column="18" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" />
       <jump line="111" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" />
       <jump line="187" column="33" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/README.md" />
+      <jump line="1" column="44" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/Labs/Lab 2/Knapsack.java" />
+      <jump line="43" column="2" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/Labs/Lab 2/Knapsack.java" />
+      <jump line="0" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/Labs/Lab 2/Knapsack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">aW50ZXJmYWNlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">aW50ZXJmYWNlIA==</text>
       </register>
       <register name="/" type="4">
         <text>requires</text>
       </register>
-      <register name="0" type="4">
-        <text>[CITS2200 Project
-Editorial](http://teaching.csse.uwa.edu.au/units/CITS2200/Labs/project-2019/CITS2200ProjectEditorial.pdf)</text>
+      <register name="0" type="2">
+        <text encoding="base64">LyoqCiAqIEEgY2xhc3MgZm9yIHJlcHJlc2VudGluZyBpbXBsZW1lbnRhdGlvbnMgb2YgdGhlIEtuYXBzYWNrIHByb2JsZW0uCiAqIENyZWF0ZWQgZm9yIENJVFMzMDAxIGF0IHRoZSBVbml2ZXJzaXR5IG9mIFdlc3Rlcm4gQXVzdHJhbGlhLgogKiBAYXV0aG9yIFRpbSBGcmVuY2guIAogKiovCgpwdWJsaWMgaW50ZXJmYWNlIEtuYXBzYWNrCnsKCQoJLyoqCgkqIEltcGxlbWVudHMgdGhlIGZyYWN0aW9uYWwga25hcHNhY2sgcHJvYmxlbS4KCSogVGhlIHZhbHVlIHJldHVybmVkIHNob3VsZCBiZSB0aGUgbWF4aW11bSAKICAqIHZhbHVlIG9mIGEgY29tYmluYXRpb24gb2YgcHJvZHVjdHMgd2l0aCB0aGUgZ2l2ZW4gdmFsdWUgYW5kIAogICogd2VpZ2h0IHRoYXQgY2FuIGZpdCBhaW4gYSBrbmFwc2FjayB3aXRoIHRoZSBnaXZlbiBjYXBhY2l0eS4KICAqIFRoZSBwcm9kdWN0cyBhcmUgZGl2aXNpYmxlIHNvIGEgZnJhY3Rpb24gb2YgZWFjaCBtYXliZSB0YWtlbi4KICAqIFRoZSByZXR1cm5lZCB2YWx1ZSBzaG91bGQgYmUgdGhlIGdyZWF0ZXN0IGludGVnZXIgCiAgKiBsZXNzIHRoYW4gb3IgZXF1YWwgdG8gdGhlIG1heGltdW0gdmFsdWUuCiAgKiBUaGUgYXJyYXlzIGFyZSBhc3N1bWVkIHRvIGJlIG9mIGVxdWFsIHNpemUsIGFuZCBhbGwgbm9uLW5lZ2F0aXZlIHZhbHVlcy4KICAqIEBwYXJhbSB3ZWlnaHRzIHRoZSBhcnJheSBvZiB3ZWlnaHRzIG9mIGVhY2ggdHlwZSBvZiBwcm9kdWN0IGF2YWlsYWJsZS4KICAqIEBwYXJhbSB2YWx1ZXMgdGhlIGFycmF5IG9mIHZhbHVlcyBvZiBlYWNoIHR5cGUgb2YgcHJvZHVjdCBhdmFpbGFibGUuCiAgKiBAcGFyYW0gY2FwYWNpdHkgdGhlIHNpemUgb2YgdGhlIGtuYXBzYWNrCiAgKiBAcmV0dXJuIHRoZSBncmVhdGVzdCBpbnQgbGVzcyB0aGFuIG9yIGVxdWFsIHRvIHRoZSBtYXhpbXVtIHBvc3NpYmxlIHZhbHVlIG9mIHRoZSBrbmFwc2Fjay4KCSoqLwoJcHVibGljIGludCBmcmFjdGlvbmFsS25hcHNhY2soaW50W10gd2VpZ2h0cywgaW50W10gdmFsdWVzLCBpbnQgY2FwYWNpdHkpOwoJCgkKCS8qKgoJKiBJbXBsZW1lbnRzIHRoZSAwLTEga25hcHNhY2sgcHJvYmxlbS4KCSogVGhlIHZhbHVlIHJldHVybmVkIHNob3VsZCBiZSB0aGUgbWF4aW11bSAKICAqIHZhbHVlIG9mIGEgY29tYmluYXRpb24gb2YgcHJvZHVjdHMgd2l0aCB0aGUgZ2l2ZW4gdmFsdWUgYW5kIAogICogd2VpZ2h0IHRoYXQgY2FuIGZpdCBhaW4gYSBrbmFwc2FjayB3aXRoIHRoZSBnaXZlbiBjYXBhY2l0eS4KICAqIFRoZSBwcm9kdWN0cyBhcmUgbm90IGRpdmlzaWJsZSBzbyBlYWNoIG11c3QgYmUgd2hvbGx5IGluY2x1ZGVkLCAKICAqIG9yIGVudGlyZWx5IGxlZnQgb3V0LgogICogVGhlIHJldHVybmVkIHZhbHVlIHNob3VsZCBiZSB0aGUgbWF4aW11bSB2YWx1ZSBpdCBpcyBwb3NzaWJsZSAKICAqIHRvIGluY2x1ZGUgaW4gdGhlIGtuYXBzYWNrLgogICogVGhlIGFycmF5cyBhcmUgYXNzdW1lZCB0byBiZSBvZiBlcXVhbCBzaXplLCBhbmQgYWxsIG5vbi1uZWdhdGl2ZSB2YWx1ZXMuIAogICogQHBhcmFtIHdlaWdodHMgdGhlIGFycmF5IG9mIHdlaWdodHMgb2YgZWFjaCB0eXBlIG9mIHByb2R1Y3QgYXZhaWxhYmxlLgogICogQHBhcmFtIHZhbHVlcyB0aGUgYXJyYXkgb2YgdmFsdWVzIG9mIGVhY2ggdHlwZSBvZiBwcm9kdWN0IGF2YWlsYWJsZS4KICAqIEBwYXJhbSBjYXBhY2l0eSB0aGUgc2l6ZSBvZiB0aGUga25hcHNhY2sKICAqIEByZXR1cm4gdGhlIG1heGltdW0gcG9zc2libGUgdmFsdWUgb2YgdGhlIGtuYXBzYWNrLgoJKiovCglwdWJsaWMgaW50IGRpc2NyZXRlS25hcHNhY2soaW50W10gd2VpZ2h0cywgaW50W10gdmFsdWVzLCBpbnQgY2FwYWNpdHkpOwogIAogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIDxwPgo=</text>
