@@ -58,11 +58,11 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/Labs/Lab 2/src/KnapsackImp.java" timestamp="1566550791775">
-        <mark key="[" line="55" column="43" />
-        <mark key="]" line="55" column="59" />
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/Labs/Lab 2/src/KnapsackImp.java" timestamp="1566551042880">
+        <mark key="[" line="111" column="1" />
+        <mark key="]" line="111" column="1" />
         <mark key="^" line="55" column="59" />
-        <mark key="." line="55" column="59" />
+        <mark key="." line="111" column="1" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/hamiltonian.gv" timestamp="1559290245239">
         <mark key="[" line="10" column="1" />
@@ -112,11 +112,11 @@
         <mark key="^" line="12" column="62" />
         <mark key="." line="12" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566550484860">
+      <file name="/Dummy.txt" timestamp="1566551077530">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/Example_graph_no_Braess%27_paradox.txt" timestamp="1559123530144">
         <mark key="[" line="0" column="0" />
@@ -320,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exceeding</text>
+        <text>Init for Knapsack.ja submittedva</text>
       </register>
       <register name="-" type="4">
-        <text>exceeding</text>
+        <text>Init for Knapsack.ja submittedva</text>
       </register>
       <register name="/" type="4">
         <text>requires</text>
@@ -332,22 +332,22 @@
         <text encoding="base64">CQkJaW50IHRhYmxlW11bXSA9IG5ldyBpbnRbd2VpZ2h0cy5sZW5ndGgrMV1bY2FwYWNpdHkrMV07IC8vYWRkaW5nIDAgYXQgc3RhcnQuCgoJCQlmb3IoaW50IHcgPSAwOyB3IDw9IHdlaWdodHMubGVuZ3RoOyB3KyspIC8vYWNjb3VudCBmb3IgdGhlIGFkZGVkIDAuCgkJCXsKCQkJCWZvcihpbnQgYyA9IDA7IGMgPD0gY2FwYWNpdHk7IGMrKykKCQkJCXsKCQkJCQlpZih3ID09IDAgfHwgYyA9PSAwKQoJCQkJCQl0YWJsZVt3XVtjXSA9ICAwOwoJCQkJCWVsc2UgaWYod2VpZ2h0c1t3LTFdID4gYykgLy9kbyBub3QgYWRkLCBhcyBleGNlZWRpbmcgY2FwYWNpdHkuCgkJCQkJCXRhYmxlW3ddW2NdID0gdGFibGVbdy0xXVtjXTsgCgkJCQkJZWxzZQoJCQkJCQl0YWJsZVt3XVtjXSA9IE1hdGgubWF4KCAodGFibGVbdy0xXVtjXSksICh2YWx1ZXNbdy0xXSArIHRhYmxlW3ctMV1bYy13ZWlnaHRzW3ctMV1dKSk7CgoJCQkJfQoJCQl9CgkJCXJldHVybiB0YWJsZVt3ZWlnaHRzLmxlbmd0aF1bY2FwYWNpdHldOyAvL2JvdHRvbS1yaWdodCBjZWxsLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgY3VycmVudFdlaWdodCA9IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgY3VycmVudFdlaWdodCA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogTWV0aG9kIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogTWV0aG9kIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -356,7 +356,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
