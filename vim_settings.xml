@@ -150,6 +150,12 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="60" column="72" />
       </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/Labs/Lab 2/src/UWALLmeme.java" timestamp="1567179631891">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="3" column="107" />
+      </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 1/CITS2200 Data Structures and Algorithms/Assessments/CITS2200 Project 2019/src/Test Resources/scc_basic_test.txt" timestamp="1559232493124">
         <mark key="[" line="0" column="0" />
       </file>
@@ -319,11 +325,11 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Init for Knapsack.ja submittedva</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Init for Knapsack.ja submittedva</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>requires</text>
@@ -335,22 +341,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgY3VycmVudFdlaWdodCA9IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgY3VycmVudFdlaWdodCA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogTWV0aG9kIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogTWV0aG9kIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
