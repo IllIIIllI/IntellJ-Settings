@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Jono Baars\labs\lab4_uniformed_search_algorithms\WordChessImp.java [CITS3001 Algorithms, Agents and Artificial Intelligence]'" />
-    <option name="defaultScopeName" value="File '...\Jono Baars\labs\lab4_uniformed_search_algorithms\WordChessImp.java [CITS3001 Algorithms, Agents and Artificial Intelligence]'" />
-    <option name="SEARCH_SCOPE" value="File '...\Jono Baars\labs\lab4_uniformed_search_algorithms\WordChessImp.java [CITS3001 Algorithms, Agents and Artificial Intelligence]'" />
+    <option name="customScope" value="File '...\Labs\Lab 4\test\WordChessImpTest.java [Lab 4]'" />
+    <option name="defaultScopeName" value="File '...\Labs\Lab 4\test\WordChessImpTest.java [Lab 4]'" />
+    <option name="SEARCH_SCOPE" value="File '...\Labs\Lab 4\test\WordChessImpTest.java [Lab 4]'" />
   </component>
 </application>
