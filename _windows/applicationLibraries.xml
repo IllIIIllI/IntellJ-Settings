@@ -1,5 +1,38 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.7 (CITS3001 Algorithms, Agents and Artificial Intelligence) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python37/DLLs" />
+        <root url="file://C:/Python37/Lib" />
+        <root url="file://C:/Python37" />
+        <root url="file://D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/venv" />
+        <root url="file://D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/venv/Lib/site-packages" />
+        <root url="jar://D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/-943626368" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python37/DLLs" />
+        <root url="file://C:/Python37/Lib" />
+        <root url="file://C:/Python37" />
+        <root url="file://D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/venv" />
+        <root url="file://D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/venv/Lib/site-packages" />
+        <root url="jar://D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS3001 Algorithms, Agents and Artificial Intelligence/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/-943626368" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file://C:/Python37/DLLs" />
